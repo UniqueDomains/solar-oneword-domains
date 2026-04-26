@@ -1,22 +1,22 @@
-# Available .SOLAR One-Word Domains (9,109)
+# Available .SOLAR One-Word Domains (11,596)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C111%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C109%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C596%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .solar one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .solar one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,596 domains** on the canonical page below.
 
-**Public extract:** 9,111 rows · **Live catalog:** 9,109 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,596 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/solar`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .SOLAR one-word domain
 
 ### Files
 
-- `solar.csv` — public CSV extract (9,111 rows)
-- `solar.json` — public JSON extract (9,111 rows)
+- `solar.csv` — public CSV extract (1,000 rows)
+- `solar.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| silver.solar  | available | $81.98    | —             | 56             | 99     | 6      | namecheap         |
-| wise.solar    | resell    | —         | —             | 98             | 72     | 4      | Sav.com, LLC - 40 |
-| live.solar    | premium   | $250      | $250          | 108            | 56     | 4      | name.com          |
-| snap.solar    | available | $9.99     | $83.99        | 90             | 46     | 4      | name.com          |
-| easy.solar    | resell    | —         | —             | 128            | 68     | 4      | Porkbun LLC       |
-| real.solar    | premium   | $260      | $260          | 78             | 49     | 4      | namecheap         |
-| creator.solar | available | $9.99     | $83.99        | 70             | 45     | 7      | name.com          |
-| flow.solar    | resell    | —         | —             | 96             | 67     | 4      | Spaceship, Inc.   |
-| travel.solar  | premium   | $520      | $520          | 115            | 48     | 6      | namecheap         |
-| mix.solar     | available | $9.99     | $83.99        | 66             | 45     | 3      | name.com          |
-| domain.solar  | resell    | —         | —             | 80             | 64     | 6      | Porkbun LLC       |
-| big.solar     | premium   | $500      | $500          | 88             | 47     | 3      | name.com          |
-| food.solar    | available | $81.98    | —             | 94             | 44     | 4      | namecheap         |
-| home.solar    | resell    | —         | —             | 90             | 62     | 4      | Porkbun LLC       |
-| star.solar    | premium   | $250      | $250          | 86             | 44     | 4      | name.com          |
-| nice.solar    | available | $9.99     | $83.99        | 86             | 44     | 4      | name.com          |
-| echo.solar    | resell    | —         | —             | 68             | 57     | 4      | Sav.com, LLC - 20 |
-| map.solar     | premium   | $128.70   | $128.70       | 78             | 42     | 3      | namecheap         |
-| pop.solar     | available | $9.99     | $83.99        | 82             | 44     | 3      | name.com          |
-| data.solar    | resell    | —         | —             | 70             | 56     | 4      | Sav.com, LLC - 30 |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| Books.solar        | available | $81.98    | —             | 52             | 49     | 5      | namecheap        |
+| home.solar         | resell    | —         | —             | 90             | 62     | 4      | Porkbun LLC      |
+| SanDiego.solar     | premium   | $46.20    | $92.40        | 74             | 29     | 9      | namecheap        |
+| skills.solar       | available | $9.99     | —             | 58             | 47     | 6      | name.com         |
+| global.solar       | resell    | —         | —             | 86             | 51     | 6      | Porkbun LLC      |
+| loans.solar        | premium   | $280      | $560          | 58             | 24     | 5      | namecheap        |
+| prompts.solar      | available | $9.99     | —             | 54             | 39     | 7      | name.com         |
+| pools.solar        | resell    | —         | —             | 61             | 19     | 5      | GoDaddy.com, LLC |
+| planets.solar      | premium   | $140      | $280          | 60             | 13     | 7      | namecheap        |
+| WiFi.solar         | available | $81.98    | —             | 83             | 37     | 5      | namecheap        |
+| solarpower.solar   | resell    | —         | —             | 84             | 15     | 11     | GoDaddy.com, LLC |
+| screens.solar      | premium   | $69.30    | $138.60       | 54             | 13     | 7      | namecheap        |
+| neuroscience.solar | available | $9.99     | —             | 80             | 37     | 12     | name.com         |
+| tickets.solar      | available | $9.99     | —             | 64             | 34     | 7      | name.com         |
+| Cats.solar         | available | $81.98    | —             | 59             | 33     | 4      | namecheap        |
+| inspiration.solar  | available | $9.99     | —             | 88             | 30     | 11     | name.com         |
+| blocks.solar       | available | $9.99     | —             | 53             | 29     | 6      | name.com         |
+| dogs.solar         | available | $9.99     | —             | 76             | 28     | 4      | name.com         |
+| gems.solar         | available | $9.99     | —             | 70             | 28     | 4      | name.com         |
+| photos.solar       | available | $9.99     | —             | 54             | 28     | 6      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,111-row public sample | 9,109 live domains                               |
+| 1,000-row public sample | 11,596 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOLAR One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOLAR One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
