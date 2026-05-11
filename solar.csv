@@ -274,6 +274,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 176cf201-f7d3-4eb9-b033-b1a72e589a00,minimums.solar,available,9.99,,52,2,8,name.com,,
 177c9b2d-c372-403f-a596-fe0b7660ffe8,officedesk.solar,available,9.99,,55,5,11,name.com,,
 178790d7-d14c-4167-82a6-aecf7e08d36e,turnsup.solar,available,9.99,,56,1,8,name.com,,
+17a17af3-b0fa-4fa5-bfc2-05ab27c40236,callcenter.solar,available,9.99,,70,16,11,name.com,,
 17a65015-9802-4178-9f4c-fedc383e946e,penalties.solar,available,9.99,,68,3,9,name.com,,
 17b07170-86cf-4468-83f7-7ba3a8263872,clipstrips.solar,available,9.99,,56,3,11,name.com,,
 17ba8246-f709-4f5c-a70d-b4c24085302e,changeout.solar,available,9.99,,50,1,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 56d0d184-1ba4-4e2c-b843-173266be9c99,IChing.solar,available,81.98,,68,14,7,namecheap,,
 56d3edc1-4d2f-44af-b021-944bff91863c,rumoured.solar,available,9.99,,50,2,8,name.com,,
 56d502a4-1d7a-4d3a-9d63-f2af02c04482,makeupremover.solar,available,9.99,,70,2,14,name.com,,
-56d9be38-ab90-4d5e-a657-118dd1299c84,ontheropes.solar,available,9.99,,59,2,12,name.com,,
