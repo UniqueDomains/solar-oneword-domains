@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 0915a7be-725a-4a56-8d3a-33169ee766f6,rhythmic.solar,available,9.99,,medium,low,8,name.com,,
-a0ab72fd-7c52-4532-8b4d-30fe8cd596df,personal.solar,available,9.99,,high,low,8,name.com,,
+a0ab72fd-7c52-4532-8b4d-30fe8cd596df,personal.solar,available,64.99,64.99,medium,low,8,namesilo,,
 a7af74e8-e98a-4297-86b1-78dd7a0b6812,lookup.solar,available,9.99,,high,low,7,name.com,,
 572e03fe-58e0-4fd6-aa69-80ded01d2dc0,delay.solar,available,9.99,,medium,low,5,name.com,,
 6d06ebd4-b7d1-428b-a7a8-6a6bfcb8ea15,enginehouse.solar,available,9.99,,medium,low,12,name.com,,
@@ -598,7 +598,7 @@ d50b2d0b-8f88-43cd-9ed9-5756fa7f5fc8,based.solar,available,9.99,,high,medium,5,n
 71d94d16-3d91-4349-9194-0c80e4b82a3f,alkalic.solar,available,9.99,83.99,low,low,7,name.com,,
 8dd8cbc1-f680-4471-a954-843c977f68c7,brilliant.solar,resell,,,high,low,9,"Spaceship, Inc.",16/06/2025 00:20,16/06/2026 00:20
 0d00b983-74ed-408c-8330-a8d6f59ad395,sure.solar,available,9.99,,high,low,4,name.com,,
-d2fd9592-b0fd-4817-8d36-ee5b50df71d7,dough.solar,available,9.99,,high,low,5,name.com,,
+d2fd9592-b0fd-4817-8d36-ee5b50df71d7,dough.solar,available,64.99,64.99,low,low,5,namesilo,,
 48e64887-def3-4b69-ae8c-3213ea833640,unassuming.solar,available,9.99,,high,low,10,name.com,,
 287d9669-ba10-44cd-a6eb-ff2352c7ee5f,assaultive.solar,available,9.99,83.99,low,low,10,name.com,,
 99f5ab42-31df-4db6-a3b1-57f5409c9961,summertire.solar,available,9.99,,high,low,11,name.com,,
@@ -629,7 +629,7 @@ ff1026fe-d9bb-47a7-8915-7a69c57cacb8,await.solar,available,9.99,,high,low,5,name
 bd5b2c9a-68ff-4f12-9ce9-b7a4f9168cc6,pronouncing.solar,available,9.99,,medium,low,11,name.com,,
 adeea671-aee2-427c-b0f0-bacaf259ee63,newyork.solar,resell,,,medium,low,8,GoDaddy Online Services Cayman Islands Ltd.,17/10/2019 05:24,17/10/2026 05:24
 97e0915f-c132-4457-963f-e3f06e9f8577,poolside.solar,available,9.99,,high,low,8,name.com,,
-2f1c9b3f-2536-4c0d-a256-9e8ddf2f0734,attainable.solar,available,9.99,83.99,medium,low,10,name.com,,
+2f1c9b3f-2536-4c0d-a256-9e8ddf2f0734,attainable.solar,available,64.99,64.99,medium,low,10,namesilo,,
 1a03665c-11cc-4fbc-bcb9-0ad218aabcf7,thanksto.solar,available,9.99,,medium,low,9,name.com,,
 68b4ec65-2be2-4a96-b812-a7a6ef0a97b9,AlbertEinstein.solar,available,9.99,,high,low,15,name.com,,
 ce9aac80-429d-4f3b-90b1-4725a21adfec,gutcheck.solar,available,9.99,,medium,low,9,name.com,,
@@ -673,7 +673,7 @@ ae883298-f8ee-492e-aa9b-c7307532ea45,sixtysix.solar,available,9.99,83.99,low,low
 cdceea6d-c5dc-49e3-a937-230dc07f2374,lesson.solar,available,9.99,,high,low,6,name.com,,
 d4cab899-77f7-4944-b6b0-517478d0feef,shaky.solar,available,9.99,,medium,low,5,name.com,,
 7cf37ba3-1f93-45ba-83a1-1fe8f4317b0f,waterflow.solar,available,9.99,,high,low,9,name.com,,
-ec383bd6-db7b-485d-83d1-dc047874a7d8,airportnovel.solar,available,9.99,83.99,low,low,13,name.com,,
+ec383bd6-db7b-485d-83d1-dc047874a7d8,airportnovel.solar,available,64.99,64.99,low,low,13,namesilo,,
 88d3f53e-bdb7-4801-8b81-cef50a711565,armorclad.solar,available,9.99,83.99,low,low,10,name.com,,
 cb6b4b4c-9930-481c-a9a3-88791440970f,articled.solar,available,9.99,83.99,low,low,8,name.com,,
 7e1d0830-8250-46cf-a4c2-416431f76abc,coffeemaker.solar,available,9.99,,high,low,12,name.com,,
@@ -784,7 +784,7 @@ e89347d8-e310-46b3-893b-e95723590908,Irishhospitality.solar,available,9.99,,high
 aa8cb243-61fc-4cc4-b924-2f74c198886d,cautionary.solar,available,9.99,83.99,low,low,10,name.com,,
 1a3821e5-5702-469c-ac37-774ae4b86929,alot.solar,available,9.99,,high,low,5,name.com,,
 f6c0eabc-a6ac-41ab-bed7-9e10169e90dc,fiftysix.solar,available,9.99,83.99,low,low,9,name.com,,
-46a3e787-77e5-4c7c-8c3b-e483aa59f0dc,buttin.solar,available,9.99,83.99,low,low,7,name.com,,
+46a3e787-77e5-4c7c-8c3b-e483aa59f0dc,buttin.solar,available,64.99,64.99,low,low,7,namesilo,,
 a3370181-4619-43e4-9019-60f150cbb355,greet.solar,available,9.99,,high,low,5,name.com,,
 6d3a39f3-e0a8-40ce-af49-dcc24fe4bb27,doctor.solar,premium,280,560,high,low,6,namecheap,,
 0310e2bf-f152-401e-b36f-cd32e434d5f7,antiguan.solar,available,9.99,83.99,low,low,8,name.com,,
