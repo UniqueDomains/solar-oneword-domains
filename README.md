@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .solar one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,838 domains · **Median ask:** $28.65 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/solar`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| sorry.solar    | available | $9.99     | $83.99        | high           | low    | 5      | name.com          |
+| one.solar      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
 | atp.solar      | available | $9.99     | —             | medium         | low    | 3      | name.com          |
 | daylight.solar | resell    | $9.99     | —             | high           | low    | 8      | Dynadot Inc       |
 | not.solar      | premium   | $69.30    | $138.60       | medium         | medium | 3      | namecheap         |
 | bed.solar      | available | $9.99     | —             | high           | low    | 3      | name.com          |
-| one.solar      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
 | sex.solar      | premium   | $46.20    | $92.40        | high           | medium | 3      | namecheap         |
 | but.solar      | available | $9.99     | —             | high           | low    | 3      | name.com          |
 | core.solar     | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC - 37 |
 | live.solar     | premium   | $250      | $250          | high           | medium | 4      | name.com          |
 | ccc.solar      | available | $9.99     | $83.99        | low            | medium | 3      | name.com          |
-| data.solar     | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 30 |
-| vast.solar     | premium   | $13       | $26           | medium         | low    | 4      | namecheap         |
-| cxv.solar      | available | $9.99     | $83.99        | low            | low    | 3      | name.com          |
 | gate.solar     | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
+| vast.solar     | premium   | $23.60    | $23.60        | medium         | low    | 4      | namesilo          |
+| cxv.solar      | available | $9.99     | $83.99        | low            | low    | 3      | name.com          |
+| mass.solar     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
 | glass.solar    | premium   | $280      | $560          | medium         | low    | 5      | namecheap         |
 | dig.solar      | available | $9.99     | —             | high           | low    | 3      | name.com          |
-| mass.solar     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
+| trio.solar     | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
 | group.solar    | premium   | $520      | $520          | high           | low    | 5      | namecheap         |
 | dry.solar      | available | $9.99     | $83.99        | high           | low    | 3      | name.com          |
-| trio.solar     | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOLAR One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOLAR One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
