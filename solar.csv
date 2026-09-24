@@ -24,7 +24,7 @@ ab90e859-6f45-4ec0-a171-7d92a7dced58,godgiven.solar,available,9.99,,medium,low,9
 22f640f6-0499-4cdd-be19-bb958534e09b,acoustic.solar,available,9.99,83.99,low,low,8,name.com,,,
 dd65a0c8-ef89-491b-b2c1-61b8411b397a,dignity.solar,available,9.99,,high,low,7,name.com,,,
 141ce392-5eb3-494a-a021-870f2374e781,worldfair.solar,available,9.99,,low,low,10,name.com,,,
-67d9c571-2b57-4ed0-bcba-3fb2d21b6e76,blacktea.solar,available,9.99,,high,low,9,name.com,,,
+67d9c571-2b57-4ed0-bcba-3fb2d21b6e76,blacktea.solar,available,64.99,64.99,low,low,9,namesilo,,,24/09/2026 01:47
 745a90f3-8ccd-48ea-85d5-006b0a864c7c,readmylips.solar,available,9.99,,low,low,12,name.com,,,
 d136f698-161e-4d9e-bcfc-9fbf51a6848f,buster.solar,available,9.99,,medium,low,6,name.com,,,
 c973a999-813c-4e69-8e36-4c5a99ee1192,allantoid.solar,available,9.99,83.99,low,low,9,name.com,,,
@@ -77,15 +77,15 @@ e9792beb-a736-4298-a56d-7be4627a7409,vanguard.solar,available,,,medium,low,8,,,,
 155e6a9f-a210-4e20-b5d3-f07c77239fc1,exhibition.solar,available,9.99,,high,low,10,name.com,,,
 3839b20e-7f12-4654-8508-72e03ee150f3,audi.solar,available,,,high,low,4,,,,
 5862c917-9c38-4f7b-927f-4f0bab864cb2,aspirer.solar,available,9.99,83.99,low,low,7,name.com,,,07/08/2026 05:12
-548153d3-f647-46fe-acf2-9f6acfd25955,consider.solar,available,9.99,83.99,high,low,8,name.com,,,
+548153d3-f647-46fe-acf2-9f6acfd25955,consider.solar,available,64.99,64.99,medium,low,8,namesilo,,,24/09/2026 05:21
 656bd697-aa03-4b6a-807b-af3e2769ea92,aqueous.solar,available,9.99,83.99,low,low,7,name.com,,,06/08/2026 10:50
 aaab77aa-6644-4edf-b140-c12b01a3c32d,infrared.solar,available,64.99,64.99,low,low,9,namesilo,,,04/09/2026 07:52
 1d9a2353-f39f-482e-ad70-52ccd7e1e9b5,onceforall.solar,available,9.99,,low,low,12,name.com,,,
 22705aaf-41b6-4b63-884f-569a8679d078,beguiling.solar,available,64.99,64.99,medium,low,9,namesilo,,,22/09/2026 01:38
-bb97b28f-9acf-40ea-bf3e-c60de46bd93c,middle.solar,available,9.99,,high,low,6,name.com,,,
+bb97b28f-9acf-40ea-bf3e-c60de46bd93c,middle.solar,available,64.99,64.99,medium,low,6,namesilo,,,23/09/2026 13:24
 5d9ce723-af2c-4449-97a6-0e4118a8f584,hearts.solar,available,9.99,,high,low,6,name.com,,,
 09c65233-c2d2-46fb-8765-07e434219d82,eliminate.solar,available,9.99,,medium,low,9,name.com,,,
-e4e1935d-f343-47c9-9ee9-f8decd3f595f,rotten.solar,available,9.99,83.99,medium,low,6,name.com,,,
+e4e1935d-f343-47c9-9ee9-f8decd3f595f,rotten.solar,available,67.98,81.98,low,low,6,namecheap,,,24/09/2026 01:35
 0de53ff5-d079-4782-83f5-63a633f6f50c,schmaltzy.solar,available,9.99,83.99,low,low,9,name.com,,,09/08/2026 01:04
 6ec6c4fc-de66-469d-b95f-5984155a14b2,liam.solar,available,9.99,,high,low,4,name.com,,,
 40af4f00-c73f-4446-83fd-23be8a5dc363,peppermintoil.solar,available,9.99,,low,low,14,name.com,,,
@@ -109,7 +109,7 @@ a4955fe9-8afa-498b-b010-43c6a5942f58,chesty.solar,available,9.99,83.99,low,low,6
 044c3f3b-896f-4782-910f-9f8b9ca64f9c,horseback.solar,available,64.99,64.99,medium,low,9,namesilo,,,21/09/2026 23:38
 2a6d71d3-497b-4f73-9e3d-5abc5a978879,crucial.solar,available,64.99,64.99,medium,low,7,namesilo,,,22/09/2026 00:39
 4e4ff79e-9d1c-4840-b3db-e0b155bae047,sausage.solar,available,9.99,,high,low,7,name.com,,,
-71745951-e0de-4859-86a9-e2cc55982e3a,reverse.solar,available,9.99,83.99,high,low,7,name.com,,,
+71745951-e0de-4859-86a9-e2cc55982e3a,reverse.solar,available,64.99,64.99,medium,low,7,namesilo,,,23/09/2026 22:34
 07dc346d-08de-4861-a6ca-9d322dd677d8,plaguey.solar,available,9.99,83.99,low,low,7,name.com,,,
 857472fe-c2c3-4698-a23e-a9093fcf0bce,toneofvoice.solar,available,9.99,,low,low,13,name.com,,,
 17fb443d-0a82-49b8-841c-48ad9a54c8c9,fictive.solar,available,9.99,83.99,low,low,7,name.com,,,07/08/2026 07:55
@@ -124,11 +124,11 @@ dcbbf029-5afe-4b9b-9ad7-1f3685b469ba,slim.solar,available,9.99,,high,low,4,name.
 dda0b804-97d7-4886-b3ef-edb3b2094758,agonising.solar,available,9.99,83.99,low,low,9,name.com,,,
 ac9fea59-95fd-4b54-a052-1dacc8664902,bendystraw.solar,available,9.99,,high,low,11,name.com,,,
 72459f79-ab9d-4833-b61a-886ecc02f7dc,aldehydic.solar,available,9.99,83.99,low,low,9,name.com,,,
-b76e1348-9546-4abd-9bf3-1bd6e90ca06d,engineer.solar,available,64.99,64.99,medium,low,8,namesilo,,,19/09/2026 14:35
+b76e1348-9546-4abd-9bf3-1bd6e90ca06d,engineer.solar,available,64.99,64.99,medium,low,8,namesilo,,,23/09/2026 17:26
 534abe16-ef56-408d-93eb-1adbab1100f4,ogdoad.solar,available,9.99,83.99,low,low,6,name.com,,,
 75999b53-b8fa-40ea-8d8e-b39550663a9e,latitude.solar,available,9.99,,high,low,8,name.com,,,
 0a37d062-399f-449f-8d50-10bbab07218e,baneful.solar,available,9.99,83.99,low,low,7,name.com,,,08/08/2026 09:44
-acce3f4d-6faf-497e-838d-8e9b76bdb969,flop.solar,available,9.99,,medium,low,4,name.com,,,
+acce3f4d-6faf-497e-838d-8e9b76bdb969,flop.solar,available,64.99,64.99,low,low,4,namesilo,,,23/09/2026 12:03
 2b053c0c-31b9-48ba-b082-870b50e39fb9,ilxxx.solar,available,9.99,83.99,low,low,5,name.com,,,
 4f472cf1-9932-42c3-9e6b-b7d532d91bdb,wasteland.solar,available,9.99,83.99,low,low,9,name.com,,,08/08/2026 21:11
 44a9a80a-d696-4929-a8a8-ca8ef8bcbf5e,sauna.solar,available,9.99,,high,low,5,name.com,,,
@@ -147,7 +147,7 @@ aae1483b-63ee-44a5-9e31-fa2e9193ee50,togetherwith.solar,available,9.99,,low,low,
 fb655581-122c-4a4c-ac09-9d82d6f8ec13,disk.solar,available,9.99,,high,low,4,name.com,,,
 6eeb088a-1c66-4046-bb3d-79de5f5516c8,accusation.solar,available,9.99,,low,low,10,name.com,,,
 bf751af9-3660-4a25-8972-6f0b0c3e0d82,interpret.solar,available,9.99,,high,low,9,name.com,,,
-1fb70fdd-f7c0-45ce-a34f-bea9df3a6a66,compound.solar,available,9.99,83.99,high,low,8,name.com,,,
+1fb70fdd-f7c0-45ce-a34f-bea9df3a6a66,compound.solar,available,67.98,81.98,medium,low,8,namecheap,,,23/09/2026 17:56
 e4059e45-eab1-4b95-a077-fca73429b44c,cherryblossom.solar,available,9.99,,high,low,14,name.com,,,
 d0c4c5f1-3c2e-4cbf-a776-86f6ee252297,antenatal.solar,available,64.99,64.99,medium,low,9,namesilo,,,22/09/2026 05:59
 4ad37cc8-669f-4a7e-82ad-176ff4769deb,anabolic.solar,available,9.99,83.99,low,low,8,name.com,,,
@@ -159,7 +159,7 @@ dbe8ad49-695b-4683-8715-ac78d2e02906,workoff.solar,available,9.99,,medium,low,8,
 451d3224-b82b-472e-90da-e1efc037d42c,electric.solar,resell,,,high,low,8,"GoDaddy.com, LLC",25/09/2014 00:59,25/09/2026 00:59,
 9fcc65d0-6fe6-475b-bc0b-a4f17e520cc2,goodenough.solar,available,9.99,,high,low,11,name.com,,,
 43aa1b47-0a1c-4895-82ec-2af62b59b621,billion.solar,available,64.99,64.99,medium,low,7,namesilo,,,22/09/2026 20:43
-9df24bdf-cf0e-4d57-81a3-0ac0b9933c1a,reinforced.solar,available,9.99,,medium,low,10,name.com,,,
+9df24bdf-cf0e-4d57-81a3-0ac0b9933c1a,reinforced.solar,available,64.99,64.99,medium,low,10,namesilo,,,23/09/2026 10:25
 697e7d6f-3bee-4d79-b566-304816c1dffc,resounding.solar,available,9.99,,high,low,10,name.com,,,
 e35e78e4-2a0c-482c-bb98-3acd71805965,getridof.solar,available,9.99,,high,low,10,name.com,,,
 c8728659-e6d7-4b29-b8e8-ab76febd0162,laziness.solar,available,9.99,,medium,low,8,name.com,,,
@@ -179,13 +179,13 @@ fed30c54-e8b1-439b-b5c7-a3086d1394f0,shrimp.solar,available,9.99,,high,low,6,nam
 06616c85-5290-45ab-b7e4-1fa58ff4e998,letmesee.solar,available,9.99,,medium,low,10,name.com,,,
 5ff9fda3-c3f9-4886-9f70-b4a4a4dbf202,inadvance.solar,available,9.99,83.99,low,low,10,name.com,,,09/08/2026 08:47
 70d0f0f3-5060-4803-bc0e-4bb24bc169fa,skateboarding.solar,available,9.99,,low,low,13,name.com,,,
-6aae0b41-cffb-4396-9351-7dcd5df87272,crude.solar,available,9.99,83.99,high,low,5,name.com,,,
+6aae0b41-cffb-4396-9351-7dcd5df87272,crude.solar,available,64.99,64.99,low,low,5,namesilo,,,24/09/2026 02:12
 104883ea-8176-48a1-a9e6-9be83e637c74,heal.solar,available,9.99,,high,low,4,name.com,,,
 bd2e802a-6a67-4ccb-9888-6aa1140f22cc,death.solar,available,9.99,83.99,medium,low,5,name.com,,,
 8fe751d8-40fd-4683-b1e9-95ced0580e3c,spellcheck.solar,available,9.99,,high,low,11,name.com,,,
 bd23a320-cc04-403e-8fc0-a590ef8531c0,rotfl.solar,available,9.99,,low,low,5,name.com,,,
 780fe3ac-2735-4519-a0ee-9f3699333d90,septenary.solar,available,9.99,83.99,low,low,9,name.com,,,
-b4b2bf34-854c-483d-9a1f-fa66d9e204e3,busted.solar,available,9.99,,medium,low,6,name.com,,,
+b4b2bf34-854c-483d-9a1f-fa66d9e204e3,busted.solar,available,67.98,81.98,low,low,6,namecheap,,,23/09/2026 12:06
 e273a53c-e6a9-4a58-bec7-5bc45ea42f4b,pasta.solar,available,9.99,,medium,low,5,name.com,,,
 91548527-362a-46fc-8a97-0257e771a194,initiative.solar,available,64.99,64.99,medium,low,10,namesilo,,,19/09/2026 04:32
 6a576c51-4082-484c-b248-f9dbdde73978,buttocks.solar,available,9.99,83.99,low,low,8,name.com,,,09/08/2026 10:25
@@ -234,7 +234,7 @@ e0ce80d2-24b1-4ef6-bd7e-ec9fef5b9880,exist.solar,available,9.99,,high,low,5,name
 b2af1d20-5365-4d7b-8fb3-e95514719c34,handmedown.solar,available,9.99,,high,low,12,name.com,,,
 84c5dde9-daa1-4942-af7a-f7ef5508d2c5,plunkfor.solar,available,9.99,83.99,low,low,9,name.com,,,08/08/2026 05:28
 c431cf91-bd03-4fd0-807f-5da73e1b767b,ammoniac.solar,available,9.99,83.99,low,low,8,name.com,,,
-f1f88470-34d9-4168-a476-710a86227d73,comical.solar,available,9.99,,high,low,7,name.com,,,
+f1f88470-34d9-4168-a476-710a86227d73,comical.solar,available,67.98,81.98,medium,low,7,namecheap,,,23/09/2026 15:19
 fc1abd21-7729-44de-9be5-2cd05c3a9c34,oldgeezer.solar,available,9.99,83.99,low,low,10,name.com,,,05/08/2026 19:25
 b9bacffb-a1f6-4877-9565-957516930df0,dakotacity.solar,available,9.99,,medium,low,11,name.com,,,
 880cf58e-d10e-4bdf-8917-bd3c5969aef0,getthebetterof.solar,available,9.99,,high,low,17,name.com,,,
@@ -262,7 +262,7 @@ fdc9e81a-687f-479d-9736-9eace5bdb46d,needy.solar,available,9.99,83.99,medium,low
 7d836a93-7a62-4965-be2a-bba49f59379c,aural.solar,available,64.99,64.99,low,low,5,namesilo,,,22/09/2026 12:49
 0fb56a4b-7f85-453c-a077-e13369aa00f5,pull.solar,available,9.99,,high,low,4,name.com,,,
 519bedfd-11c1-4a6e-9dfb-3316b24df487,slow.solar,available,64.99,64.99,medium,low,4,namesilo,,,23/09/2026 00:28
-49f27752-1628-4352-a922-f29ea40f8c57,circular.solar,resell,,,high,low,8,"Sav.com, LLC",30/08/2025 02:25,30/08/2027 02:25,22/09/2026 22:09
+49f27752-1628-4352-a922-f29ea40f8c57,circular.solar,resell,,,medium,low,8,"Sav.com, LLC",30/08/2025 02:25,30/08/2027 02:25,23/09/2026 09:44
 0c69d783-6d40-4dce-b0ca-6174a6f469fb,gardensalad.solar,available,9.99,,high,low,12,name.com,,,
 f051f0c2-367d-41ff-aecd-05124516c3ae,gore.solar,available,9.99,,medium,low,4,name.com,,,
 e2d58158-c26e-4fc4-ad1e-cfed5d0b845c,alaskan.solar,available,9.99,83.99,low,low,7,name.com,,,
@@ -317,7 +317,7 @@ f4557ce1-cc22-4dc9-b50c-7c24eaf74789,whale.solar,available,9.99,,medium,low,5,na
 554e7ff0-9fd0-49b8-a15b-7be417e5cd44,howldown.solar,available,9.99,,medium,low,9,name.com,,,
 ad7f7fa5-8f49-4276-9a0c-c86351fc1a47,airphoto.solar,available,9.99,,high,low,9,name.com,,,
 90f1acef-7eb0-47f6-9ca5-03216109a428,gray.solar,available,9.99,,medium,low,4,name.com,,,
-f0caf035-a095-40d6-b7fc-38e3a5128044,jealous.solar,available,9.99,83.99,high,low,7,name.com,,,
+f0caf035-a095-40d6-b7fc-38e3a5128044,jealous.solar,available,64.99,64.99,medium,low,7,namesilo,,,24/09/2026 01:04
 89d8fe62-d12b-4806-a855-26cdb4782ee7,tow.solar,available,9.99,,medium,low,3,name.com,,,
 d81c423e-e091-4c53-aa20-28729460e0b1,apheretic.solar,available,9.99,83.99,low,low,9,name.com,,,05/08/2026 22:50
 f07b00b7-435c-4845-9bcf-9e42aa2a28c1,boattrip.solar,available,9.99,,high,low,9,name.com,,,
@@ -362,7 +362,7 @@ ef09d53e-150a-4a97-a0d5-0f5390a1074c,rag.solar,available,9.99,83.99,medium,low,3
 46987b17-dfde-4e16-b554-cf298d4f4f53,closeofbusiness.solar,available,9.99,,high,low,17,name.com,,,
 0b459b05-e56d-44bc-b12b-502ef5e9edd3,tercet.solar,available,9.99,83.99,low,low,6,name.com,,,
 a9f62c97-dbbb-4004-ae62-b49ba1f2e4a7,groups.solar,available,9.99,,medium,low,6,name.com,,,
-8b0bde5b-5f1e-4ba1-8c92-4fb6d4c02272,tears.solar,available,9.99,83.99,medium,low,5,name.com,,,
+8b0bde5b-5f1e-4ba1-8c92-4fb6d4c02272,tears.solar,available,64.99,64.99,low,low,5,namesilo,,,24/09/2026 02:29
 e90917e6-cc03-44cc-9a48-bfe6b9b34884,offhand.solar,available,9.99,83.99,low,low,7,name.com,,,
 8ec213ea-5b5d-4c77-baad-2a43082d5046,fran.solar,available,9.99,,medium,low,4,name.com,,,
 0c5b538f-f340-4364-869f-d1295f26087b,generalknowledge.solar,available,9.99,,high,low,17,name.com,,,
@@ -379,7 +379,7 @@ ab177f21-5325-4ee8-a574-ae99fa0c487c,debased.solar,available,9.99,83.99,low,low,
 9ded8a20-dfe1-4cda-8e22-155cbfc8f20d,quint.solar,available,9.99,83.99,low,low,5,name.com,,,
 62d7f769-c272-4fa1-a088-b84f1ce21e9b,oneyearold.solar,available,9.99,,high,low,12,name.com,,,
 dff5ec80-acc1-47ae-90de-36ddd319e462,blackthursday.solar,available,9.99,,medium,low,14,name.com,,,
-36cfa107-95d3-4c1f-bdf2-c9e44897959b,vast.solar,premium,23.6,23.6,medium,low,4,namesilo,,,19/09/2026 06:11
+36cfa107-95d3-4c1f-bdf2-c9e44897959b,vast.solar,premium,13,26,medium,low,4,namecheap,,,23/09/2026 09:06
 71d3a7ca-4964-43a0-a635-25d850460c2b,thinkup.solar,available,9.99,,high,low,8,name.com,,,
 229605e4-dfd9-4f8b-8cc3-caf16f7807ef,loose.solar,available,64.99,64.99,low,low,5,namesilo,,,22/09/2026 10:42
 1165de11-7709-4b33-9f4d-167316d98b07,case.solar,available,9.99,,high,low,4,name.com,,,
@@ -389,7 +389,7 @@ dff5ec80-acc1-47ae-90de-36ddd319e462,blackthursday.solar,available,9.99,,medium,
 9cda7585-8296-483a-98e7-44efcefbdac9,doubling.solar,available,9.99,,medium,low,8,name.com,,,
 d1e691af-5a10-4ee0-b9fd-9e987d53856b,waytoo.solar,available,9.99,,low,low,7,name.com,,,
 49e96f95-5255-4a94-b3b8-762518de7337,atp.solar,available,9.99,,medium,low,3,name.com,,,
-20e67374-eab4-4d91-8fed-08130f2c249d,individual.solar,available,9.99,,high,low,10,name.com,,,
+20e67374-eab4-4d91-8fed-08130f2c249d,individual.solar,available,64.99,64.99,medium,low,10,namesilo,,,23/09/2026 13:06
 daab87be-2754-4d42-bba9-b984efdd55de,moveover.solar,available,9.99,,medium,low,9,name.com,,,
 943f801c-e6cd-4e0d-aba3-4c883d830d92,ashgrey.solar,available,9.99,83.99,low,low,8,name.com,,,07/08/2026 01:54
 914085a9-b945-4707-84c2-394408e8226b,letterofintent.solar,available,9.99,,high,low,16,name.com,,,
@@ -401,7 +401,7 @@ daab87be-2754-4d42-bba9-b984efdd55de,moveover.solar,available,9.99,,medium,low,9
 d9b02e9d-05d8-4a5d-9bd4-1ff36e2b7a1d,after.solar,available,64.99,64.99,medium,low,5,namesilo,,,21/09/2026 22:16
 8516354a-58ab-452e-b977-132c56b185ab,engrossing.solar,available,9.99,83.99,low,low,10,name.com,,,
 2c312a76-164f-43e2-8697-057601a5bed2,difficulty.solar,available,9.99,,medium,low,10,name.com,,,
-5b739a8b-26a6-4244-bfad-431462a21c52,broadband.solar,available,9.99,,high,low,9,name.com,,,
+5b739a8b-26a6-4244-bfad-431462a21c52,broadband.solar,available,64.99,64.99,medium,low,9,namesilo,,,23/09/2026 09:40
 d38d3341-9746-4a4e-a457-eb9a7d9a1659,aliquot.solar,available,9.99,83.99,low,low,7,name.com,,,
 db7ef593-50d0-464b-b7ec-7fb8d50c3c57,enthralled.solar,available,9.99,83.99,low,low,10,name.com,,,09/08/2026 10:06
 7c7d3146-3792-430b-bb56-45b0b8001e97,tip.solar,available,9.99,,high,low,3,name.com,,,
@@ -424,7 +424,7 @@ dad9b95f-e42f-40ab-9274-b41b343a027d,financialcrisis.solar,available,9.99,,mediu
 51360e02-9047-4f46-85ba-3d7f84447740,encouraging.solar,available,9.99,,high,low,11,name.com,,,
 e1dcb98e-a02e-4708-ab54-5776cc2f4d8d,but.solar,available,9.99,,high,low,3,name.com,,,
 9f50911c-a63b-4c60-acce-72dee0416c89,kept.solar,available,9.99,,medium,low,4,name.com,,,
-27396b7e-0cd4-4298-ae81-4ab0571326d6,delicious.solar,available,9.99,83.99,high,low,9,name.com,,,
+27396b7e-0cd4-4298-ae81-4ab0571326d6,delicious.solar,available,64.99,64.99,medium,low,9,namesilo,,,24/09/2026 05:16
 3076d58b-dcca-48f3-9fd2-96f00cf51106,presssecretary.solar,available,9.99,,high,low,15,name.com,,,
 31d24a38-608f-4131-bf01-318594146ab5,justice.solar,available,67.98,81.98,medium,low,7,namecheap,,,19/09/2026 10:07
 46bca304-60c3-4872-96c7-76b5efaabcfe,controlling.solar,available,9.99,,high,low,11,name.com,,,
@@ -469,7 +469,7 @@ df7c6ab8-3ba2-487c-8f36-b654394518cf,sparkly.solar,available,9.99,83.99,low,low,
 fe34abbb-88c4-429d-a2db-4b16df8d6db7,liable.solar,available,9.99,,high,low,6,name.com,,,
 1c278c1d-44f5-43f4-bfa2-fa308119c6c2,misses.solar,available,9.99,,high,low,6,name.com,,,
 babe1cf2-5e09-4642-98aa-cfccf816279d,acetylenic.solar,available,9.99,83.99,low,low,10,name.com,,,
-bb51e2e8-e496-427b-8611-7392772facbf,brown.solar,available,9.99,,high,low,5,name.com,,,
+bb51e2e8-e496-427b-8611-7392772facbf,brown.solar,available,64.99,64.99,medium,low,5,namesilo,,,23/09/2026 10:03
 24bb795f-96cb-41fc-9736-30de31329171,sufficient.solar,available,9.99,,high,low,10,name.com,,,
 e14a6fba-62f1-4262-99dd-06c1ed0446a2,melancholy.solar,available,9.99,,high,low,10,name.com,,,
 2940cb7b-0a54-47ea-bac6-40ac06b844c8,harm.solar,available,9.99,83.99,medium,low,4,name.com,,,08/09/2026 07:44
@@ -492,7 +492,7 @@ b64e58e6-076d-4dbb-b717-2cf34f1b34bd,disclosure.solar,available,9.99,,medium,low
 c0b33e12-3104-478d-a074-34ebea762e56,aboral.solar,available,9.99,83.99,low,low,6,name.com,,,
 64e08d06-f293-49e5-a420-18180740fc8b,allylic.solar,available,9.99,83.99,low,low,7,name.com,,,
 586c95b4-5f3a-4970-9981-71453fd46b94,woops.solar,available,9.99,,high,low,5,name.com,,,
-420f6a80-bb01-4959-959d-19ff63dee798,crisp.solar,available,9.99,83.99,medium,low,5,name.com,,,
+420f6a80-bb01-4959-959d-19ff63dee798,crisp.solar,available,64.99,64.99,low,low,5,namesilo,,,24/09/2026 01:53
 06e73a7c-6988-417f-b6e0-e1be5b8be199,onlytoo.solar,available,9.99,83.99,low,low,8,name.com,,,13/09/2026 19:01
 3e363db1-a581-4eee-a9d9-4afc48231340,consistently.solar,available,9.99,,medium,low,12,name.com,,,
 44263414-8f50-4abf-abc3-895d57f26063,ashy.solar,available,9.99,83.99,low,low,4,name.com,,,07/08/2026 02:04
@@ -525,7 +525,7 @@ fd2484c6-634e-4b8f-974f-288ada75b543,adiabatic.solar,available,9.99,83.99,low,lo
 ca31d6d6-e93b-4b0b-b75d-508f21d862f1,souse.solar,available,9.99,83.99,low,low,5,name.com,,,
 dd12fb15-b0b9-4279-a39e-067f4cef54b8,precise.solar,resell,,,high,low,7,"GoDaddy.com, LLC",19/09/2014 17:53,19/09/2026 17:53,
 74ba6aeb-75e7-499f-9d3a-be4f7a92b0fc,participating.solar,available,9.99,,low,low,13,name.com,,,
-27800765-ac57-44f8-952e-59af77ce2e32,material.solar,available,9.99,83.99,high,low,8,name.com,,,
+27800765-ac57-44f8-952e-59af77ce2e32,material.solar,available,64.99,64.99,medium,low,8,namesilo,,,23/09/2026 23:27
 fc5a8b2c-d7e2-40dd-be3e-588c08b2cbe8,lxxxii.solar,available,9.99,83.99,low,low,6,name.com,,,
 e93c775b-4e9d-4eb4-90ba-0de3910b6efa,protest.solar,available,9.99,,high,low,7,name.com,,,
 6ba8ec37-dfa4-4451-b7a3-2068ae5b5d1c,tracing.solar,available,9.99,,high,low,7,name.com,,,
@@ -535,14 +535,14 @@ a1e5bae0-f23c-43fc-af85-63f9772f4b0c,core.solar,resell,,,medium,medium,4,"Sav.co
 9d0cd1fa-4c2d-4609-9942-d491408ad1bd,applicable.solar,available,9.99,83.99,low,low,10,name.com,,,06/08/2026 07:06
 8b34faff-9a35-4139-9753-4c8359644278,invisible.solar,available,9.99,,high,low,9,name.com,,,
 3c8def07-e798-4ad7-876f-096e76e2b6fe,text.solar,available,9.99,,high,medium,4,name.com,,,
-cd532f5a-7307-43f0-9a7c-2f815e4f9ef7,payment.solar,available,64.99,64.99,medium,low,7,namesilo,,,20/09/2026 02:57
+cd532f5a-7307-43f0-9a7c-2f815e4f9ef7,payment.solar,available,64.99,64.99,medium,low,7,namesilo,,,23/09/2026 10:58
 53ab2b9b-0c47-46f9-980f-6698847d2dda,diplomatic.solar,available,9.99,83.99,high,low,10,name.com,,,
 d59fd26f-18f1-4c26-9628-725922e73ed4,discuss.solar,available,9.99,,high,low,7,name.com,,,
 afdc00ad-0d03-4ddd-8b4f-7ad96af0aeee,polo.solar,available,,,high,low,4,,,,
 3cba61da-6199-47ca-aacc-ddf3100fbb83,jabber.solar,available,9.99,,high,low,6,name.com,,,
 9c93b62e-d85c-429b-8381-9f4578b72efb,actively.solar,available,9.99,,medium,low,8,name.com,,,
 4baaa148-d0a8-4c0e-859a-8759583ec96c,deputy.solar,available,9.99,,high,low,6,name.com,,,
-87a60239-3d6a-43a0-8309-c593c31db2e0,comparable.solar,available,9.99,83.99,high,low,10,name.com,,,
+87a60239-3d6a-43a0-8309-c593c31db2e0,comparable.solar,available,64.99,64.99,medium,low,10,namesilo,,,23/09/2026 16:34
 126732fa-c0a2-4d4a-8ef0-53b26b475379,howmuchisit.solar,available,9.99,,medium,low,14,name.com,,,
 a848ca63-06ff-46d4-874c-1b1f6215f004,prevent.solar,available,9.99,,high,low,7,name.com,,,
 ba3e744e-31aa-414a-8608-7f3e4c62b3ae,becoming.solar,available,9.99,83.99,low,low,8,name.com,,,09/08/2026 06:08
@@ -650,12 +650,12 @@ c097e8b0-9c65-4bed-9883-546cdac6af58,setloose.solar,available,9.99,,low,low,9,na
 b8be1767-3669-4bf9-8efb-14f274acbd89,employer.solar,available,9.99,,high,low,8,name.com,,,
 ce7ef9e0-12f9-446d-9bd6-4998cd9aea67,broad.solar,available,64.99,64.99,medium,low,5,namesilo,,,19/09/2026 06:03
 1a394106-b20f-422a-ac65-ce94f99e1244,acanthoid.solar,available,9.99,83.99,low,low,9,name.com,,,
-616a8bdc-7662-4f4c-86e1-e5b79d618d9f,lover.solar,available,9.99,,high,low,5,name.com,,,
+616a8bdc-7662-4f4c-86e1-e5b79d618d9f,lover.solar,available,64.99,64.99,medium,low,5,namesilo,,,23/09/2026 10:15
 f7d2830f-f852-4645-a420-e7e4b62da3be,restaurant.solar,available,9.99,,high,low,10,name.com,,,
 5c28590b-16ed-4895-8446-b6993e7cce76,vexatious.solar,available,9.99,83.99,low,low,9,name.com,,,
 f72dc39b-8bbc-4df8-ba90-5f0413d506a0,cutshort.solar,available,9.99,,medium,low,9,name.com,,,
 ebf06c53-8431-44a6-9eee-4a10e73d0de8,condense.solar,available,9.99,,high,low,8,name.com,,,
-a20c33a4-7b7e-4394-af7c-b7cbf54700d8,imaginable.solar,available,9.99,83.99,medium,low,10,name.com,,,
+a20c33a4-7b7e-4394-af7c-b7cbf54700d8,imaginable.solar,available,64.99,64.99,medium,low,10,namesilo,,,23/09/2026 18:44
 3590cf01-7dad-47b6-923b-50848647b328,enlivening.solar,available,9.99,83.99,low,low,10,name.com,,,
 fcd0f14e-67f7-4122-92bb-6ceba84bb136,little.solar,available,9.99,,high,low,6,name.com,,,
 ec46f88f-4063-4efe-a3c0-f67b0b7e1bbf,germanreich.solar,available,9.99,,medium,low,12,name.com,,,
@@ -676,7 +676,7 @@ a0b0d43a-8c4d-42a7-8356-4965b1a7968f,goodandproper.solar,available,9.99,,medium,
 86ef923f-c9e9-467d-8cbc-ebcefb3dbe6c,amerciable.solar,available,9.99,83.99,low,low,10,name.com,,,
 32f65ea6-cc5f-456c-9746-fb44fc3b65b6,jock.solar,available,9.99,,high,low,4,name.com,,,
 095bb654-1896-4b99-8c42-0c008290f3b3,godhead.solar,available,9.99,83.99,low,low,7,name.com,,,
-7be1bf19-8bf5-4ed8-a921-728ced9267f4,room.solar,available,64.99,64.99,medium,low,4,namesilo,,,08/09/2026 08:37
+7be1bf19-8bf5-4ed8-a921-728ced9267f4,room.solar,available,64.99,64.99,medium,low,4,namesilo,,,23/09/2026 08:08
 2199bb3d-de8e-4722-9972-cacaa6e1dd1b,buyfood.solar,available,9.99,,high,low,8,name.com,,,
 65de50f3-6798-41b7-8084-911d634a21f0,anuric.solar,available,9.99,83.99,low,low,6,name.com,,,05/08/2026 21:22
 cf71f98e-02db-403d-ada9-df29d1bc3f12,newwave.solar,available,9.99,83.99,medium,low,8,name.com,,,07/08/2026 21:44
@@ -693,7 +693,7 @@ f7ead480-f1ed-4334-9d05-e631c00c0f0a,breastbone.solar,available,9.99,,medium,low
 f32a9eb9-96ff-494f-a5dd-3cfeca5515ef,warofwords.solar,available,9.99,,low,low,12,name.com,,,
 4efe1cd2-3763-42cf-8db2-0c015c580823,attimes.solar,available,9.99,,medium,low,8,name.com,,,
 b6a5d6bc-e872-4bf5-bfbf-cb22f39054e5,spurious.solar,available,9.99,83.99,low,low,8,name.com,,,09/08/2026 00:03
-87829b13-b0d4-4883-a3b3-efccf7207a2f,comedian.solar,available,9.99,,high,low,8,name.com,,,
+87829b13-b0d4-4883-a3b3-efccf7207a2f,comedian.solar,available,67.98,81.98,medium,low,8,namecheap,,,23/09/2026 15:26
 d03de0a4-29d0-4bb4-9ad2-042b0bdc3b27,steak.solar,available,9.99,,high,low,5,name.com,,,
 64a5d4a9-58c1-4a55-977c-4c27b27a2185,transitions.solar,available,9.99,,low,low,11,name.com,,,
 a56e2b4f-1f7b-485a-9e25-5eb2905b1b72,backhand.solar,available,9.99,83.99,low,low,8,name.com,,,08/08/2026 05:43
@@ -722,13 +722,13 @@ ea5c4275-5544-493e-bf96-1dd88244cc34,acidreflux.solar,available,9.99,,low,low,11
 4a336b04-3b8d-4eba-816c-e4c1d3aa690e,datefrom.solar,available,9.99,,medium,low,9,name.com,,,
 f28f01c4-b945-4799-b2e6-7af203fa41ee,halloween.solar,available,9.99,,high,low,9,name.com,,,
 04ba9831-0320-465f-b5c1-cbe7b0a4a575,completely.solar,available,67.98,81.98,low,low,10,namecheap,,,22/09/2026 00:16
-d39707d7-7b1d-48ae-8153-925fd3cf6e31,formal.solar,available,9.99,83.99,high,low,6,name.com,,,
+d39707d7-7b1d-48ae-8153-925fd3cf6e31,formal.solar,available,64.99,64.99,medium,low,6,namesilo,,,24/09/2026 00:47
 8d5df17b-1818-4bd7-b8c1-7fa81a0c0a47,ant.solar,available,,,high,low,3,,,,
 2beaa153-71f9-4d7f-913b-7f2a764b9deb,accuser.solar,available,9.99,,low,low,7,name.com,,,
 8e193199-2d94-46a5-a90d-5e36dbf32b38,sportsfan.solar,available,9.99,,high,low,10,name.com,,,
 55758047-1619-4b9d-a770-e10c74348f5b,fulgid.solar,available,9.99,83.99,low,low,6,name.com,,,
 44a1a3cb-b1a5-4852-8b38-6aabd9e6dbaa,mahfugga.solar,available,9.99,,medium,low,8,name.com,,,
-606c4494-c23d-4b8b-8116-33c2afbfd235,burnt.solar,available,9.99,,medium,low,5,name.com,,,
+606c4494-c23d-4b8b-8116-33c2afbfd235,burnt.solar,available,64.99,64.99,low,low,5,namesilo,,,23/09/2026 11:41
 3122a3f1-4ba9-4835-bea8-2d921e2145dc,chiseling.solar,available,9.99,,medium,low,9,name.com,,,
 054344c8-a959-446b-ac40-90c087ccf1a9,arcuate.solar,available,9.99,83.99,low,low,7,name.com,,,06/08/2026 14:49
 5b9d9404-edac-4be5-bf23-6f689ef91778,dyspeptic.solar,available,9.99,83.99,low,low,9,name.com,,,07/08/2026 14:14
@@ -769,7 +769,7 @@ a5a062b5-b922-4472-af38-aeebf34f3b9f,adhoc.solar,available,9.99,83.99,low,low,6,
 0a19df9b-8c7c-44ed-a2ef-40aa33b489b1,fortytwo.solar,available,9.99,83.99,low,low,9,name.com,,,
 8c9175d3-d658-4151-a243-b20944d7e1a5,hermitical.solar,available,9.99,83.99,low,low,10,name.com,,,
 46178248-db8d-491d-bc5c-cd1fe1d921a1,latter.solar,available,9.99,,high,low,6,name.com,,,
-f74a1436-7df4-4902-873d-23400fb5d966,creepy.solar,available,9.99,83.99,medium,low,6,name.com,,,
+f74a1436-7df4-4902-873d-23400fb5d966,creepy.solar,available,64.99,64.99,low,low,6,namesilo,,,24/09/2026 01:42
 b3c8c344-dc84-4ae6-8c56-52d19a34df9e,singletree.solar,available,9.99,,low,low,11,name.com,,,
 53f800ec-e93d-4529-a495-ace33a03d4cf,stations.solar,available,9.99,,medium,low,8,name.com,,,
 9e06836f-b995-4e29-bb3b-69581bdfb542,lookatme.solar,available,9.99,,medium,low,10,name.com,,,
@@ -783,7 +783,7 @@ a3370181-4619-43e4-9019-60f150cbb355,greet.solar,available,9.99,,high,low,5,name
 6d3a39f3-e0a8-40ce-af49-dcc24fe4bb27,doctor.solar,premium,280,560,high,low,6,namecheap,,,
 0310e2bf-f152-401e-b36f-cd32e434d5f7,antiguan.solar,available,9.99,83.99,low,low,8,name.com,,,
 4be0a89a-8a79-42d1-a4f9-da6a60e694cf,atwork.solar,available,9.99,,high,low,7,name.com,,,
-54d22f39-ca2d-4e3a-b881-3715d9f84a23,complex.solar,available,9.99,83.99,high,low,7,name.com,,,
+54d22f39-ca2d-4e3a-b881-3715d9f84a23,complex.solar,available,64.99,64.99,medium,low,7,namesilo,,,23/09/2026 17:35
 4566db22-b029-45f7-931e-ccefbe8943fe,normal.solar,available,,,high,low,6,,,,
 0b29bcc4-c7ba-4cdd-a66a-6578a53aaa13,peeking.solar,available,9.99,,high,low,7,name.com,,,
 72f5e14f-c05a-4d9c-9599-a18b49b8f967,wordplay.solar,available,9.99,,medium,low,9,name.com,,,
@@ -791,7 +791,7 @@ deeddf89-cd4c-422d-82e4-a420297da86e,memorise.solar,available,9.99,,high,low,8,n
 dd9066cc-30ce-488b-972c-7c0c9567d4b5,major.solar,available,9.99,,high,low,5,name.com,,,
 95a841fd-8933-4824-af74-eb0467b7c282,onec.solar,available,9.99,83.99,low,low,5,name.com,,,
 662e9f8b-1e50-44e4-b34a-19f97a18a3d7,armenian.solar,available,9.99,83.99,low,low,8,name.com,,,06/08/2026 19:39
-d6ddc641-0c3a-4ae0-83ae-65bc061743cd,definite.solar,available,9.99,83.99,high,low,8,name.com,,,
+d6ddc641-0c3a-4ae0-83ae-65bc061743cd,definite.solar,available,9.99,83.99,medium,low,8,name.com,,,24/09/2026 05:06
 3e449621-67d7-4667-95d3-b0cf11f4b169,suspect.solar,available,9.99,,high,low,7,name.com,,,
 b2917275-9c91-4575-85b7-b88bc4af21af,soup.solar,available,9.99,,high,low,4,name.com,,,
 4f5642e1-c555-4775-aafd-8762f0da6eff,campaign.solar,available,9.99,,high,low,8,name.com,,,
@@ -834,7 +834,7 @@ cec6fe75-d172-4d2e-9ae2-b46bfca4ca52,jamesdean.solar,available,9.99,,high,low,10
 52e06226-97f4-4d26-a4b6-29d12bd81f27,musiccenter.solar,available,9.99,,high,low,12,name.com,,,
 00d2df86-90e3-4040-99d6-302883da50e7,theseones.solar,available,9.99,,low,low,10,name.com,,,
 99e61aa6-88a1-4b2c-99c1-b2d8e7a2194c,goalong.solar,available,9.99,,high,low,8,name.com,,,
-2e9edd1c-8a76-4524-a87a-f678cb264b82,weak.solar,available,9.99,83.99,medium,low,4,name.com,,,
+2e9edd1c-8a76-4524-a87a-f678cb264b82,weak.solar,available,64.99,64.99,medium,low,4,namesilo,,,24/09/2026 04:57
 dac60f48-de2a-4572-91e7-affca12a13d0,standupto.solar,available,9.99,,low,low,11,name.com,,,
 420e0841-f4bd-4d94-a94d-d3fdb19f72ea,amblyopic.solar,available,9.99,83.99,low,low,9,name.com,,,
 f8fa097b-ca67-437c-9496-cb5deb0d864b,twothousand.solar,available,9.99,,low,low,12,name.com,,,
@@ -845,7 +845,7 @@ f8fa097b-ca67-437c-9496-cb5deb0d864b,twothousand.solar,available,9.99,,low,low,1
 b70ddfb3-3569-4f7e-a624-0ac7f3d7d6ec,heads.solar,available,9.99,,high,low,5,name.com,,,
 db1e6f06-f06b-466d-9e9f-9ca6d1f1cc2e,agnostic.solar,available,64.99,64.99,medium,low,8,namesilo,,,21/09/2026 23:11
 fd8881a5-86f8-4186-a587-e692e8afac16,accused.solar,available,9.99,,low,low,7,name.com,,,
-e7fcbae1-bdd1-422e-9078-f1f81b786dee,naming.solar,available,64.99,64.99,medium,low,6,namesilo,,,19/09/2026 13:00
+e7fcbae1-bdd1-422e-9078-f1f81b786dee,naming.solar,available,64.99,64.99,medium,low,6,namesilo,,,23/09/2026 15:51
 2447568e-6611-49ce-8de3-76771083840d,baggagecheck.solar,available,9.99,,high,low,13,name.com,,,
 f69c6c82-2572-4073-a698-c3ce814dcd31,hic.solar,available,9.99,,high,low,3,name.com,,,
 e848fee0-7256-42f6-b273-6350ae3e9ef4,annakournikova.solar,available,9.99,,high,low,15,name.com,,,
@@ -927,7 +927,7 @@ cf9578ee-2d90-4cb1-aa60-867e6ef69d86,surprisingly.solar,available,9.99,,medium,l
 ce1e5a37-4e9c-4f7f-82e3-f71a8ba44f59,attraction.solar,available,9.99,,high,low,10,name.com,,,
 5825c62b-c4b5-4448-9b0d-589d03e3ffa1,one.solar,resell,,,medium,low,3,Dynadot Inc,05/03/2025 15:15,05/03/2027 15:15,22/09/2026 20:38
 4f470bbc-a9ca-4ef6-83d2-5ba8660ebf00,manual.solar,available,9.99,,medium,low,6,name.com,,,
-4bbfbbfe-6df6-46c0-bab0-8c74e75da4ef,idiot.solar,available,64.99,64.99,low,low,5,namesilo,,,19/09/2026 09:51
+4bbfbbfe-6df6-46c0-bab0-8c74e75da4ef,idiot.solar,available,64.99,64.99,low,low,5,namesilo,,,23/09/2026 07:42
 a49ee48e-531e-468d-b42e-ed968adfa892,increase.solar,available,9.99,,high,low,8,name.com,,,
 02a90911-1ca9-49bd-af01-21b55d8c44ee,bluetooth.solar,available,9.99,,high,low,9,name.com,,,
 3324cece-1eaf-4393-9e79-500873cafe82,twenty.solar,available,67.98,81.98,medium,low,6,namecheap,,,21/09/2026 12:24
@@ -993,7 +993,7 @@ bbbd1e0c-1d9c-4b8c-807d-34c4d1d38184,archducal.solar,available,9.99,83.99,low,lo
 5ae484b6-03a9-4ba5-89b5-68ee02ef97ae,lane.solar,available,9.99,,medium,low,4,name.com,,,
 06f0f32b-e6f2-4275-a16d-dde7f37bf731,lip.solar,available,9.99,,high,low,3,name.com,,,
 4e2d5424-0945-4b37-8b0a-511aed6518f2,avaricious.solar,available,9.99,83.99,low,low,10,name.com,,,07/08/2026 21:48
-d9c03055-9896-426c-99f5-e13962c68e63,corrupted.solar,available,9.99,83.99,medium,low,9,name.com,,,
+d9c03055-9896-426c-99f5-e13962c68e63,corrupted.solar,available,64.99,64.99,low,low,9,namesilo,,,23/09/2026 23:59
 ff7b5282-8e1f-4cbd-8c11-127c6e0b40d4,opportunityclass.solar,available,9.99,,high,low,17,name.com,,,
 a7b8a239-6543-4176-b8a3-a0c3d769ac23,arminian.solar,available,9.99,83.99,low,low,8,name.com,,,06/08/2026 19:49
 300b6c9b-2523-43af-873e-872d40f23a61,accursed.solar,available,9.99,83.99,low,low,8,name.com,,,
