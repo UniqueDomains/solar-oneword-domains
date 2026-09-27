@@ -1,10 +1,10 @@
-# Available .SOLAR One-Word Domains (32,004)
+# Available .SOLAR One-Word Domains (22,278)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C004%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C278%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .solar one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,004 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,278 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,004 domains · **Median ask:** $37.48 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 22,278 domains · **Median ask:** $42.18 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/solar`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| abo.solar      | available | $9.99     | $83.99        | high           | low    | 3      | name.com          |
-| daylight.solar | resell    | $9.99     | —             | high           | low    | 8      | Dynadot Inc       |
-| not.solar      | premium   | $69.30    | $138.60       | high           | medium | 3      | namecheap         |
-| ana.solar      | available | $9.99     | —             | high           | low    | 3      | name.com          |
-| bit.solar      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
-| say.solar      | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap         |
-| ass.solar      | available | $9.99     | $83.99        | high           | low    | 3      | name.com          |
-| con.solar      | resell    | —         | —             | high           | low    | 3      | Dynadot Inc       |
-| sex.solar      | premium   | $46.20    | $92.40        | high           | medium | 3      | namecheap         |
-| atp.solar      | available | $9.99     | —             | high           | low    | 3      | name.com          |
-| core.solar     | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 37 |
-| know.solar     | premium   | $69.30    | $138.60       | high           | low    | 4      | namecheap         |
-| bae.solar      | available | $9.99     | —             | high           | low    | 3      | name.com          |
-| fort.solar     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
-| glass.solar    | premium   | $280      | $560          | high           | low    | 5      | namecheap         |
-| bed.solar      | available | $9.99     | —             | high           | low    | 3      | name.com          |
-| gate.solar     | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
-| group.solar    | premium   | $520      | $520          | high           | low    | 5      | namecheap         |
-| beg.solar      | available | $9.99     | —             | high           | low    | 3      | name.com          |
-| must.solar     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 38 |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| ago.solar        | available | $64.99    | $64.99        | high           | low    | 3      | namesilo          |
+| jet.solar        | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 33 |
+| chat.solar       | premium   | $512      | $512          | high           | medium | 4      | namesilo          |
+| auc.solar        | available | $64.99    | $64.99        | high           | low    | 3      | namesilo          |
+| arch.solar       | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
+| glass.solar      | premium   | $280      | $560          | high           | low    | 5      | namecheap         |
+| bce.solar        | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| haven.solar      | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC - 45 |
+| order.solar      | premium   | $118.80   | $118.80       | high           | medium | 5      | namesilo          |
+| cdc.solar        | available | $64.99    | $64.99        | high           | low    | 3      | namesilo          |
+| balkan.solar     | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC  |
+| phone.solar      | premium   | $69.30    | $138.60       | high           | low    | 5      | namecheap         |
+| cpu.solar        | available | $64.99    | $64.99        | high           | low    | 3      | namesilo          |
+| infinite.solar   | resell    | —         | —             | high           | medium | 8      | Sav.com, LLC - 17 |
+| whole.solar      | premium   | $130      | $260          | high           | low    | 5      | namecheap         |
+| faa.solar        | available | $64.99    | $64.99        | high           | low    | 3      | namesilo          |
+| sterling.solar   | resell    | —         | —             | high           | low    | 8      | Dynadot Inc       |
+| select.solar     | premium   | $512      | $512          | high           | medium | 6      | namesilo          |
+| few.solar        | available | $64.99    | $64.99        | high           | low    | 3      | namesilo          |
+| investment.solar | resell    | —         | —             | high           | low    | 10     | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,004 live domains                        |
+| 1,000-row public sample | 22,278 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 1 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOLAR One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOLAR One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
