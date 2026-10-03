@@ -1,4 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+cf561de0-a800-4810-8a61-52124deba381,pto.solar,available,50.2,50.2,high,low,3,cloudflare,,,02/10/2026 06:08
 b6d1f066-3f0a-48ca-885d-0ff228a48688,probe.solar,available,51.95,51.95,high,low,5,spaceship,,,28/09/2026 10:09
 8915adc9-30f7-4542-94e5-5314eeed121e,calculations.solar,available,64.99,64.99,medium,low,12,namesilo,,,17/09/2026 02:07
 44a10af8-65a4-4295-af17-7a810c25ab1e,divers.solar,available,64.99,64.99,high,low,6,namesilo,,,01/10/2026 09:26
@@ -8,6 +9,7 @@ c2a3ca24-8c07-4535-97ef-6d46da7b274d,straighten.solar,available,64.99,64.99,high
 98323c7f-2e7c-4897-9d0b-78841a52dbf7,liang.solar,available,64.99,64.99,high,low,5,namesilo,,,29/09/2026 22:32
 0a6373b6-815d-4555-8b78-fde59ac4e127,aggressive.solar,available,64.99,64.99,high,low,10,namesilo,,,21/09/2026 22:59
 ed397292-b6cd-4312-ab1c-ab3e1e1c5c60,kathleen.solar,available,67.98,81.98,high,low,8,namecheap,,,25/09/2026 14:34
+52993a4b-42e1-4557-9b9a-37ebf2862350,marseille.solar,available,50.2,50.2,high,low,9,cloudflare,,,03/10/2026 01:34
 0e070983-7a19-476f-ae33-229ef3cbdbd9,guidelines.solar,available,64.99,64.99,medium,low,10,namesilo,,,29/09/2026 17:19
 cde23959-def2-4e18-9c15-130e9d7df9b4,monticello.solar,available,64.99,64.99,medium,low,10,namesilo,,,28/09/2026 12:25
 d715043c-c3fe-45da-bf26-930117ec961a,unlawful.solar,available,9.99,83.99,medium,low,8,name.com,,,21/08/2026 19:54
@@ -15,7 +17,7 @@ d715043c-c3fe-45da-bf26-930117ec961a,unlawful.solar,available,9.99,83.99,medium,
 3ccbf615-e5c7-4be3-931d-8e6dbe84326a,fonts.solar,available,64.99,64.99,medium,low,5,namesilo,,,20/09/2026 22:56
 e3502525-c79b-4756-820c-225cb9592514,hernandez.solar,available,64.99,64.99,high,low,9,namesilo,,,25/09/2026 16:13
 062fb937-8e19-4ee1-8f4c-fe711cee7e7a,willful.solar,available,9.99,83.99,medium,low,7,name.com,,,18/08/2026 16:37
-28920195-ca80-4fb6-8d4b-9d586155a87d,treatment.solar,available,5.57,53.72,high,low,9,dynadot,,,28/09/2026 08:22
+28920195-ca80-4fb6-8d4b-9d586155a87d,treatment.solar,available,64.99,64.99,high,low,9,namesilo,,,02/10/2026 12:28
 7f07fd5f-b1e6-4ed9-aa91-dbf9fdc4f021,cory.solar,available,64.99,64.99,high,low,4,namesilo,,,27/09/2026 18:41
 8b4b8d92-2d19-4f79-a1bc-874016660a67,erst.solar,available,9.99,83.99,medium,low,4,name.com,,,17/08/2026 13:07
 ca38c14b-2d4c-4c02-a99a-eab96e2d6d06,bicycle.solar,available,64.99,64.99,high,low,7,namesilo,,,27/09/2026 03:10
@@ -23,6 +25,7 @@ ca38c14b-2d4c-4c02-a99a-eab96e2d6d06,bicycle.solar,available,64.99,64.99,high,lo
 4502fd18-0bd6-4e31-a3c8-2dda7a244c7f,historic.solar,available,9.99,83.99,high,low,8,name.com,,,21/08/2026 09:51
 4be5de52-6e1e-45c8-84de-f61fc275a279,endlessly.solar,available,64.99,64.99,high,low,9,namesilo,,,14/09/2026 06:09
 79d7e338-e5ce-4552-92e1-8be00bf4edd9,cbd.solar,available,51.95,51.95,high,low,3,spaceship,,,28/09/2026 08:39
+1b09ec4d-437a-443a-a232-325951bd3553,sacrament.solar,available,51.95,51.95,high,low,9,spaceship,,,02/10/2026 06:18
 9b866bce-77e2-48c5-b799-b3312ec60b7a,anomie.solar,available,64.99,64.99,medium,low,6,namesilo,,,19/09/2026 11:29
 2703e58c-cbd2-4b10-8a08-b05795bd7398,thou.solar,available,67.98,81.98,medium,low,4,namecheap,,,21/09/2026 11:11
 fe506e34-1472-4e58-a8d6-af75cba2c8ff,admit.solar,available,64.99,64.99,high,low,5,namesilo,,,26/09/2026 00:34
@@ -35,6 +38,7 @@ bc74e9dd-1b1c-447a-b0b7-20ea00391265,modifications.solar,available,5.57,53.72,me
 19ab3fcb-4076-49ae-a2eb-bef74935fbe5,hodgkin.solar,available,64.99,64.99,medium,low,7,namesilo,,,18/09/2026 01:43
 82d29ece-5c84-4978-a314-6599f836622b,bony.solar,available,9.99,83.99,medium,low,4,name.com,,,10/08/2026 18:42
 a674b411-8fdf-4dd8-80ca-7ba9520321ae,barnsley.solar,available,50.2,50.2,medium,low,8,cloudflare,,,30/09/2026 15:02
+90a9861e-d43d-4a8e-8821-41ea4cee08cf,marmaduke.solar,available,51.95,51.95,medium,low,9,spaceship,,,02/10/2026 19:44
 de42a5f6-cf17-465b-83db-c0e1c5cd0e6c,kinshasa.solar,available,51.95,51.95,high,low,8,spaceship,,,01/10/2026 02:48
 51287798-57a2-4ff8-8713-0ded54c112a2,sunnily.solar,available,64.99,64.99,medium,low,7,namesilo,,,14/09/2026 06:41
 2637364b-ca12-4312-bfc8-45a5e94ba5f7,disarmer.solar,available,64.99,64.99,medium,low,8,namesilo,,,04/09/2026 22:39
@@ -62,12 +66,13 @@ dda0b804-97d7-4886-b3ef-edb3b2094758,agonising.solar,available,9.99,83.99,medium
 46b808df-db3e-4b5b-9d62-624900ec7cd3,amerindian.solar,available,64.99,64.99,medium,low,10,namesilo,,,03/09/2026 13:51
 34eb0f94-6eb7-4535-b813-f88165d185bb,lotion.solar,available,67.98,81.98,high,low,6,namecheap,,,01/10/2026 02:55
 736ad6da-fdfd-4145-bb27-9b61cfce0a67,juliette.solar,available,50.2,50.2,medium,low,8,cloudflare,,,29/09/2026 15:24
+926c1370-f341-427a-86dc-2ec8ba387f10,trident.solar,resell,,,high,low,7,,,,02/10/2026 06:34
 e68af3d5-4500-444c-85f2-7fedcc89e411,mcmahon.solar,available,64.99,64.99,medium,low,7,namesilo,,,25/09/2026 21:50
 4ce29ee3-b784-46f7-b360-24c11ccaf5f3,researching.solar,available,5.66,52.01,high,low,11,porkbun,,,29/09/2026 21:29
 4e70270a-9006-46c3-8558-fd96c0bf2b73,mindfully.solar,available,64.99,64.99,high,low,9,namesilo,,,13/09/2026 17:29
 17399d23-8980-44fb-9b9a-b51d42d2ab41,anzio.solar,available,64.99,64.99,medium,low,5,namesilo,,,19/09/2026 16:01
 316b723b-d9a8-4227-b678-cfa1d9936eb8,visibility.solar,available,64.99,64.99,high,low,10,namesilo,,,30/09/2026 14:30
-68926d78-045f-4e0a-8394-701637b6674f,spaces.solar,available,51.95,51.95,high,low,6,spaceship,,,28/09/2026 17:55
+68926d78-045f-4e0a-8394-701637b6674f,spaces.solar,available,64.99,64.99,high,low,6,namesilo,,,02/10/2026 20:47
 b3b4a342-d7cc-4ccc-8003-9dc6cfe0ab28,withdrawing.solar,available,67.98,81.98,medium,low,11,namecheap,,,29/09/2026 21:24
 57ba253d-6159-4886-a70c-67d3a6f87051,biochemist.solar,available,67.98,81.98,high,low,10,namecheap,,,23/09/2026 17:44
 68f97a39-6f56-41ce-8118-b06268d81a99,formosa.solar,available,64.99,64.99,high,low,7,namesilo,,,28/09/2026 05:46
@@ -83,16 +88,17 @@ dc6fc7f2-a194-4a7d-b5ef-fc6007c515f0,semitic.solar,available,64.99,64.99,medium,
 de5d5957-7000-4332-b088-c7388532a695,elia.solar,available,64.99,64.99,high,low,4,namesilo,,,01/10/2026 01:20
 659d65b2-2461-4846-93af-d2836b2b240f,habilitate.solar,available,67.98,81.98,medium,low,10,namecheap,,,19/09/2026 20:06
 76be890a-f226-41bf-9c17-bb85d20370b8,reprints.solar,available,50.2,50.2,medium,low,8,cloudflare,,,28/09/2026 09:09
-80c9c031-cb96-4bd0-9742-e0f2fd88e76f,operating.solar,available,50.2,50.2,medium,low,9,cloudflare,,,28/09/2026 08:05
-e2bd737f-a14c-4df4-8aa5-468f8647aa84,variety.solar,available,64.99,64.99,high,low,7,namesilo,,,25/09/2026 12:52
+80c9c031-cb96-4bd0-9742-e0f2fd88e76f,operating.solar,available,64.99,64.99,high,low,9,namesilo,,,02/10/2026 11:45
+e2bd737f-a14c-4df4-8aa5-468f8647aa84,variety.solar,available,64.99,64.99,high,low,7,namesilo,,,02/10/2026 12:54
 380e5dca-9a68-4182-9bbf-4baa1f2e0044,sheridan.solar,available,67.98,81.98,high,low,8,namecheap,,,25/09/2026 10:21
 239937a7-ca66-480d-b1f9-3f0e64f3f3a9,hee.solar,available,50.2,50.2,high,low,3,cloudflare,,,29/09/2026 21:26
+79c706d1-4023-450b-a889-401c1e4c1cf4,tricia.solar,available,64.99,64.99,high,low,6,namesilo,,,03/10/2026 05:12
 d4aff367-4559-4f60-8b05-937e0a44552d,cypriote.solar,available,9.99,83.99,medium,low,8,name.com,,,13/08/2026 14:05
 5c10b64c-bc7c-4483-80e3-7406bda47d6b,commandery.solar,available,64.99,64.99,medium,low,10,namesilo,,,29/09/2026 00:27
 55c8cb28-db11-49b4-bce9-a14a9ebd9587,loud.solar,available,67.98,81.98,high,low,4,namecheap,,,24/09/2026 19:25
 343cae6f-17c6-4e69-a9e0-6ad66acadb78,endogamic.solar,available,9.99,83.99,medium,low,9,name.com,,,17/08/2026 01:11
 5862c917-9c38-4f7b-927f-4f0bab864cb2,aspirer.solar,available,9.99,83.99,medium,low,7,name.com,,,07/08/2026 05:12
-9f6d6ce5-4777-45ff-b542-184975ff0a08,inspection.solar,available,51.95,51.95,high,low,10,spaceship,,,30/09/2026 13:38
+9f6d6ce5-4777-45ff-b542-184975ff0a08,inspection.solar,available,50.2,50.2,high,low,10,cloudflare,,,02/10/2026 23:37
 15bd6c5c-015a-4c7d-bd0f-1b5aa413ca9f,aristide.solar,available,51.95,51.95,medium,low,8,spaceship,,,01/10/2026 09:44
 90536f8a-251f-4e34-9840-0adc4ee3f366,peg.solar,available,64.99,64.99,high,low,3,namesilo,,,27/09/2026 15:02
 4823fe2f-0664-4edb-a17f-284f5915662d,peiping.solar,available,64.99,64.99,medium,low,7,namesilo,,,23/09/2026 04:16
@@ -105,7 +111,7 @@ a3fdcbe3-1ca3-4136-bde5-2c73473cf977,blixen.solar,available,64.99,64.99,medium,l
 e120dbbf-b3f9-4d86-9dbc-fea9b056efcf,threaded.solar,available,64.99,64.99,high,low,8,namesilo,,,11/09/2026 14:12
 e0c24c4f-5948-489c-8760-c6b8d1e4416c,silvia.solar,available,64.99,64.99,medium,low,6,namesilo,,,29/09/2026 12:28
 8f3ddc01-3995-41cf-afe9-a2011020b93f,sleekly.solar,available,64.99,64.99,medium,low,7,namesilo,,,16/09/2026 02:30
-7f6b067b-0e0f-450f-8518-54d0759f3315,experimentation.solar,available,51.95,51.95,medium,low,15,spaceship,,,30/09/2026 13:40
+7f6b067b-0e0f-450f-8518-54d0759f3315,experimentation.solar,available,5.66,52.01,medium,low,15,porkbun,,,02/10/2026 23:39
 ead09bea-011d-4433-9972-25a13808f605,houghton.solar,available,64.99,64.99,medium,low,8,namesilo,,,25/09/2026 23:07
 4ddd6d50-008e-4a38-8794-2ff142bac2cd,nei.solar,available,51.95,51.95,medium,low,3,spaceship,,,01/10/2026 23:49
 d069f1fa-32d0-494a-9267-c512297b524f,deadpan.solar,available,9.99,83.99,medium,low,7,name.com,,,13/08/2026 19:37
@@ -118,15 +124,18 @@ d069f1fa-32d0-494a-9267-c512297b524f,deadpan.solar,available,9.99,83.99,medium,l
 75973f78-05e5-4b64-a4a5-a83b56f6bb2a,solanum.solar,available,51.95,51.95,high,low,7,spaceship,,,02/10/2026 05:03
 439f52f6-f4e5-4b50-a4f1-565606947b70,examples.solar,available,67.98,81.98,medium,low,8,namecheap,,,29/09/2026 11:13
 9f72caf2-c4be-4114-a5f9-b04d10b3bfd6,alcea.solar,available,64.99,64.99,medium,low,5,namesilo,,,18/09/2026 03:52
-89ebecaa-9346-4f7d-a293-7e29b52c8eef,meeting.solar,available,5.57,53.72,high,low,7,dynadot,,,28/09/2026 07:59
+89ebecaa-9346-4f7d-a293-7e29b52c8eef,meeting.solar,available,64.99,64.99,high,low,7,namesilo,,,02/10/2026 11:39
 d39870f3-a4d6-4529-83dc-2fc902fc4924,css.solar,available,64.99,64.99,high,medium,3,namesilo,,,28/09/2026 11:47
 4620511e-73ba-4277-ba29-d5463b5d18b4,missional.solar,available,9.99,83.99,medium,low,9,name.com,,,25/08/2026 01:50
+65011605-54f7-4e64-80da-40a12f92a7a3,pulse.solar,resell,,,high,high,5,"Sav.com, LLC - 7",02/10/2025 15:15,02/10/2027 15:15,03/10/2026 04:43
 f39ee8d8-c54f-4316-a108-5de94822257b,cultivators.solar,available,5.57,53.72,medium,low,11,dynadot,,,30/09/2026 00:43
 a132afeb-2723-490a-ba5d-a24ef8f19eab,vitrified.solar,available,64.99,64.99,medium,low,9,namesilo,,,13/09/2026 06:20
 18f4048a-897c-47e3-a974-4674e1cc66a5,apus.solar,available,64.99,64.99,medium,low,4,namesilo,,,19/09/2026 22:43
 4c2d4cfb-9762-4362-ac83-562a9fd48bb8,loser.solar,available,64.99,64.99,medium,low,5,namesilo,,,18/09/2026 14:19
+079ffca9-7793-41e5-b5f9-f233c6ef1f55,rawlinson.solar,available,51.95,51.95,medium,low,9,spaceship,,,02/10/2026 09:45
 af6e3812-4042-49be-af30-6ef4acf762ab,cyclist.solar,available,64.99,64.99,high,low,7,namesilo,,,23/09/2026 13:21
 e4422a70-ef0e-483e-a9d1-403ce1669f37,atlantic.solar,available,9.99,83.99,high,low,8,name.com,,,07/08/2026 13:38
+9d7c3e84-cb44-4c88-b956-a7216f28c52f,battersea.solar,available,5.57,53.72,medium,low,9,dynadot,,,02/10/2026 20:49
 6279e493-9958-4a2d-a661-eca2a1ecb593,columnar.solar,available,9.99,83.99,medium,low,8,name.com,,,12/08/2026 18:14
 b9f61b89-c0f1-43a9-b15f-b50afb9d3cc1,pill.solar,available,50.2,50.2,medium,low,4,cloudflare,,,28/09/2026 21:31
 83187c39-cc43-472a-9f53-19636a30c37a,settles.solar,available,51.95,51.95,medium,low,7,spaceship,,,30/09/2026 07:18
@@ -142,13 +151,16 @@ e18cc498-0584-46f6-9c2f-623b6d9f48e6,section.solar,available,64.99,64.99,high,lo
 e9ef6cc1-356f-4599-8688-565a80b34a4d,insignia.solar,available,51.95,51.95,high,low,8,spaceship,,,30/09/2026 17:42
 15e9e286-2047-4d1c-ba1e-d1adbad16658,starlit.solar,available,9.99,83.99,medium,low,7,name.com,,,10/09/2026 18:56
 51d411cc-8907-4f60-9f1a-007ef9ddca84,begins.solar,available,67.98,81.98,medium,low,6,namecheap,,,25/09/2026 20:45
+0934ac48-bcea-4b67-87c5-110c9ed6b4a5,goethe.solar,available,64.99,64.99,medium,low,6,namesilo,,,03/10/2026 00:59
 0afe1ae5-d278-4313-8727-ef4518d3b597,hires.solar,available,64.99,64.99,high,low,5,namesilo,,,30/09/2026 05:35
 2da34571-1e20-4063-a9d1-05b9e9d14a3e,pastures.solar,available,50.2,50.2,medium,low,8,cloudflare,,,30/09/2026 07:16
 71081e60-098a-4bab-a363-99341ae36b3b,abdul.solar,available,67.98,81.98,high,low,5,namecheap,,,27/09/2026 07:21
 0cc6b59b-4b6a-48f0-8b9d-a29144d00b5a,russet.solar,available,67.98,81.98,high,low,6,namecheap,,,09/09/2026 20:06
 e61c9256-3542-4428-9d5d-03ec586de099,divorced.solar,available,9.99,83.99,medium,low,8,name.com,,,14/08/2026 14:01
 cb51e7eb-ca59-42e5-8e7f-3706c1cb8829,aubergine.solar,available,64.99,64.99,high,low,9,namesilo,,,21/09/2026 02:33
+711ce877-cac1-40fd-bcb5-39ebde64d396,johannesburg.solar,premium,78.54,78.54,high,low,12,namesilo,,,02/10/2026 08:19
 e495c508-abf5-4427-bbbf-6cd95f142eca,margo.solar,available,64.99,64.99,high,low,5,namesilo,,,30/09/2026 06:36
+43bf40cb-d800-4529-85fe-d5f116cfbdec,remarked.solar,available,50.2,50.2,medium,low,8,cloudflare,,,02/10/2026 17:46
 62ec3c17-b282-4fd6-9c45-2902ee916ccc,valve.solar,available,64.99,64.99,high,low,5,namesilo,,,28/09/2026 11:02
 1ea38939-061c-4c26-aa1a-421783adaca9,memoirs.solar,available,51.95,51.95,medium,low,7,spaceship,,,30/09/2026 06:59
 55aef9a0-09d2-4edc-95f4-ac9e366add8a,subdue.solar,available,64.99,64.99,high,low,6,namesilo,,,11/09/2026 07:44
@@ -158,10 +170,13 @@ ac78e30a-98f0-4d1c-b46c-aec12763768e,phone.solar,premium,108.9,108.9,high,low,5,
 cfad1bef-0462-43c0-aa98-ed189ce8f825,covers.solar,available,64.99,64.99,high,low,6,namesilo,,,27/09/2026 09:49
 c93002da-414e-4c79-8655-04a360b33bad,syncarpous.solar,available,64.99,64.99,medium,low,10,namesilo,,,11/09/2026 06:11
 abe180b4-2226-460c-950f-ec09a10bdc10,lenify.solar,available,9.99,83.99,medium,low,6,name.com,,,18/08/2026 22:02
+76c92b1a-e2de-421d-bdd7-4c2e52b9d12d,lse.solar,available,64.99,64.99,medium,low,3,namesilo,,,02/10/2026 10:00
 a9a4db2e-ac94-4bbf-884d-7bb22212ad81,clive.solar,available,64.99,64.99,high,low,5,namesilo,,,22/09/2026 07:05
 6fbc0745-6d16-4947-a489-c9bbfc20ce03,dina.solar,available,51.95,51.95,high,low,4,spaceship,,,29/09/2026 15:21
+865425fc-5094-4b01-92b0-f8419615866d,karlsson.solar,available,67.98,81.98,medium,low,8,namecheap,,,02/10/2026 20:04
 41584ff4-beed-425c-9f90-0ec22a6a6457,honesty.solar,available,50.2,50.2,high,low,7,cloudflare,,,28/09/2026 06:00
 534c349a-6c4b-42fa-8f56-845fe5f01d53,knower.solar,available,64.99,64.99,medium,low,6,namesilo,,,19/09/2026 22:14
+d45c8d8e-255f-4459-b06a-ad3def68c294,clr.solar,available,64.99,64.99,high,low,3,namesilo,,,02/10/2026 18:47
 bf25837d-73e2-4a00-b79d-31c76f155a5c,disgrace.solar,available,64.99,64.99,high,low,8,namesilo,,,29/09/2026 15:44
 00e1f755-20cf-4264-b4fd-16980bd6f941,outdoor.solar,resell,,,high,low,7,,,,01/10/2026 02:25
 22838cf5-5a8b-42dd-8f5b-001c28dd708a,dried.solar,available,9.99,83.99,high,low,5,name.com,,,14/08/2026 18:59
@@ -189,6 +204,7 @@ aa029958-9948-413d-9249-33bbdd6bdca3,rave.solar,available,64.99,64.99,high,low,4
 1fd11cd7-4bb7-4bbd-a398-ccee314ddb16,guadalupe.solar,available,64.99,64.99,medium,low,9,namesilo,,,25/09/2026 15:36
 3c6ec36d-3167-4e27-a581-98cf79b910c4,spins.solar,available,51.95,51.95,high,low,5,spaceship,,,30/09/2026 07:26
 df7c1fa2-27da-43d2-99d2-6dd51a077f7e,agelong.solar,available,9.99,83.99,medium,low,7,name.com,,,
+36c6c5dd-bae5-47e5-8067-71bcbf15bd09,interruptions.solar,available,64.99,64.99,low,low,13,namesilo,,,02/10/2026 13:08
 9b33d24c-9e32-4113-8243-976d4e85893c,bathurst.solar,available,64.99,64.99,medium,low,8,namesilo,,,28/09/2026 16:46
 d739b6e7-8ca1-4bc8-8d51-2f6985cf8e49,ooo.solar,available,64.99,64.99,high,medium,3,namesilo,,,02/10/2026 03:15
 80e5f18a-45a5-4b7e-9ffb-bdc830c565df,litigate.solar,available,64.99,64.99,medium,low,8,namesilo,,,17/09/2026 05:06
@@ -208,16 +224,18 @@ fe5f3245-2600-4dd7-ae50-9c1aee6721e7,neapolitan.solar,available,64.99,64.99,medi
 4a9c0d90-ffbc-4f3f-a7e7-3610b81c6a51,observers.solar,available,64.99,64.99,medium,low,9,namesilo,,,30/09/2026 07:11
 88aa47dc-c8c1-4dca-9640-53a3cdf04792,seeds.solar,available,9.99,,high,low,5,name.com,,,
 b1d9d503-eefd-4c5a-9f7a-c095971e878b,agree.solar,available,64.99,64.99,high,low,5,namesilo,,,28/09/2026 17:26
+4d4e5c97-543f-4719-95b2-e2051b0f7a14,antics.solar,available,64.99,64.99,medium,low,6,namesilo,,,02/10/2026 12:58
 4a8c0d05-abc2-4516-8e17-60a26b23cb69,adscript.solar,available,9.99,83.99,medium,low,8,name.com,,,
 4ddb1e30-f198-4d59-8a62-70b2873e3516,dominos.solar,available,64.99,64.99,high,low,7,namesilo,,,24/09/2026 23:28
 b8de8322-665d-464a-b47a-42cd2f757fe9,rembrandt.solar,available,64.99,64.99,high,low,9,namesilo,,,28/09/2026 15:14
 17588db1-e43e-4625-af10-47e63fd3117f,skipjack.solar,available,67.98,81.98,medium,low,8,namecheap,,,20/09/2026 21:35
 79a2c1b1-65fe-4ff3-b88e-6521d1914230,prettier.solar,available,64.99,64.99,medium,low,8,namesilo,,,18/09/2026 11:09
+15a1712f-fcde-4cfa-9fa4-529958675315,sweeter.solar,available,51.95,51.95,medium,low,7,spaceship,,,02/10/2026 13:05
 a7122d49-8c05-4b94-b713-d609358a14db,rarefied.solar,available,9.99,83.99,medium,low,8,name.com,,,17/08/2026 15:44
 3a64d7fa-9a7e-4a21-bee7-c76130c25950,forgiving.solar,available,67.98,81.98,high,low,9,namecheap,,,21/09/2026 14:52
 1243b404-c2ff-4171-a93a-a44052e9dde5,meth.solar,available,64.99,64.99,high,low,4,namesilo,,,24/09/2026 21:56
 6a5bc620-7cd8-42af-a56a-22c7a3b50fbc,hairless.solar,available,9.99,83.99,high,low,8,name.com,,,20/08/2026 22:13
-7630d7be-a203-4622-be51-ca3b4721db1a,creation.solar,available,67.98,81.98,high,low,8,namecheap,,,30/09/2026 16:01
+7630d7be-a203-4622-be51-ca3b4721db1a,creation.solar,available,51.95,51.95,high,low,8,spaceship,,,03/10/2026 04:02
 b6934927-c792-45d0-b10d-27ac5736cb5f,hammering.solar,available,64.99,64.99,high,low,9,namesilo,,,01/10/2026 02:23
 85e66a85-08b2-4a0d-aa4e-2340c9dbf457,downloaded.solar,available,50.2,50.2,high,low,10,cloudflare,,,30/09/2026 23:49
 8ce280e8-d54c-4222-8b8a-54ba7a72c99f,nigger.solar,available,51.95,51.95,high,medium,6,spaceship,,,29/09/2026 19:25
@@ -226,7 +244,7 @@ b6934927-c792-45d0-b10d-27ac5736cb5f,hammering.solar,available,64.99,64.99,high,
 effb6694-d8ee-4544-93c4-a70a017b243d,obdurate.solar,available,9.99,83.99,medium,low,8,name.com,,,13/08/2026 12:15
 22ed1040-3fd9-49ef-bf0f-533e7f62c7f4,mathias.solar,available,51.95,51.95,high,low,7,spaceship,,,28/09/2026 05:17
 c2a69c99-1ad4-4271-815a-2e7065460e33,resign.solar,available,64.99,64.99,medium,low,6,namesilo,,,30/09/2026 06:20
-11299bb3-9e58-4ae4-9c09-fe1395161798,investment.solar,resell,,,high,low,10,Dynadot Inc,08/09/2026 17:00,08/09/2027 17:00,30/09/2026 16:09
+11299bb3-9e58-4ae4-9c09-fe1395161798,investment.solar,resell,,,high,low,10,Dynadot Inc,08/09/2026 17:00,08/09/2027 17:00,02/10/2026 08:11
 3afa3d57-57a8-46c0-bfe8-74d878cc4b6e,asymmetry.solar,available,67.98,81.98,medium,low,9,namecheap,,,20/09/2026 18:39
 572e03fe-58e0-4fd6-aa69-80ded01d2dc0,delay.solar,available,51.95,51.95,high,low,5,spaceship,,,29/09/2026 13:44
 fda82506-4896-4b1a-8fbe-29453b45b2f8,glum.solar,available,9.99,83.99,medium,low,4,name.com,,,20/08/2026 14:57
@@ -249,6 +267,7 @@ b00937f8-7b87-4d5f-b3e4-4207094082c3,icons.solar,available,9.99,,high,low,5,name
 17ef9fd6-1685-44a9-8c36-86d9de38950a,orville.solar,available,5.57,53.72,high,low,7,dynadot,,,29/09/2026 09:46
 2eda59f2-293c-427e-9d51-2acdd40ee0a6,plates.solar,available,64.99,64.99,medium,low,6,namesilo,,,27/09/2026 02:22
 7a25237f-214f-44d3-a463-68cd88e902aa,strained.solar,available,67.98,81.98,high,low,8,namecheap,,,23/09/2026 21:17
+b8302af2-01b0-425c-ae07-321bc91ac26c,pleasurable.solar,available,5.66,52.01,high,low,11,porkbun,,,02/10/2026 07:01
 06f4acce-2f05-4fb5-8ac3-f8a87c9e200e,corfu.solar,available,51.95,51.95,high,low,5,spaceship,,,30/09/2026 04:34
 f4d2dafa-cac5-43dc-9b9a-d9cb5ab3cf8d,kochia.solar,available,67.98,81.98,medium,low,6,namecheap,,,22/09/2026 12:18
 b32d47e3-cee3-400e-b753-7040905ad69a,actuator.solar,available,64.99,64.99,medium,low,8,namesilo,,,17/09/2026 05:24
@@ -278,6 +297,7 @@ d2c57eb2-b432-4149-ab5c-db8d93e87536,scathing.solar,available,64.99,64.99,medium
 2002b8af-08fa-49c3-b7f2-a4646560515b,appetizer.solar,available,64.99,64.99,high,low,9,namesilo,,,19/09/2026 20:45
 b970621b-b20a-4e91-8eda-e4f2831d44c0,reluctantly.solar,available,64.99,64.99,medium,low,11,namesilo,,,30/09/2026 11:53
 084b0ed8-ffad-4cd7-8633-6f5b6bee79ac,somewhat.solar,available,67.98,81.98,high,low,8,namecheap,,,25/09/2026 12:06
+021d29a3-d668-40cf-b864-01a57eaf71cb,mistook.solar,available,51.95,51.95,low,low,7,spaceship,,,02/10/2026 21:18
 1cd11e59-9149-4927-8598-0c68e414fb9b,danvers.solar,available,51.95,51.95,medium,low,7,spaceship,,,29/09/2026 22:33
 ae6b7d04-b3d0-41db-b97d-cadb2c250c33,cpc.solar,available,51.95,51.95,high,low,3,spaceship,,,28/09/2026 16:33
 618b2453-f33b-4282-b751-fffe8a1f8455,abohm.solar,available,64.99,64.99,medium,low,5,namesilo,,,16/09/2026 16:26
@@ -327,6 +347,7 @@ a468c1fe-36c0-4a4a-bb56-4f812f6bc409,umar.solar,available,51.95,51.95,high,low,4
 d6df2207-86e9-4d55-a3e5-5d14ae7ac7e6,llc.solar,available,64.99,64.99,high,low,3,namesilo,,,25/09/2026 11:14
 7f438f4f-5c33-4d31-acdc-1836d773cf81,wryly.solar,available,64.99,64.99,medium,low,5,namesilo,,,16/09/2026 11:46
 6f87653e-5814-4e4f-93a9-da5769fd99df,karel.solar,available,67.98,81.98,high,low,5,namecheap,,,29/09/2026 09:01
+e6d4fbf6-ffa8-40ab-afab-21d18c8a0d14,contributes.solar,available,51.95,51.95,medium,low,11,spaceship,,,02/10/2026 21:06
 81b580ca-2c2f-43f6-a4e7-c04f81ea4277,affirmed.solar,available,67.98,81.98,high,low,8,namecheap,,,17/09/2026 14:27
 85c7a111-ad13-4637-8aee-a7cd871a9490,grover.solar,available,50.2,50.2,medium,low,6,cloudflare,,,29/09/2026 09:39
 f4f3e3e1-44e6-4421-b111-242e82a6f728,truthful.solar,available,64.99,64.99,high,low,8,namesilo,,,11/09/2026 20:51
@@ -340,6 +361,7 @@ c3ff07f1-58f3-4508-a0e2-7837be6e2c9e,variegated.solar,available,64.99,64.99,medi
 c91ec3f3-813e-425e-a5ea-429774ea59ce,transmitting.solar,available,51.95,51.95,medium,low,12,spaceship,,,29/09/2026 10:14
 0206d934-31a7-49eb-9903-13abe27b6398,cpu.solar,available,64.99,64.99,high,low,3,namesilo,,,24/09/2026 11:27
 b46fb2db-bcf6-493d-aa22-473b81348df0,outlaws.solar,available,5.66,52.01,medium,low,7,porkbun,,,30/09/2026 07:41
+dff4bea9-433f-45b3-9d4c-e44f868cb974,birthdate.solar,available,64.99,64.99,high,low,9,namesilo,,,03/10/2026 03:31
 c7e82a56-0002-4619-bf26-b32178642df1,earnings.solar,available,5.57,53.72,high,low,8,dynadot,,,29/09/2026 18:43
 b3b43709-f5ae-497a-a925-da33f67ae18b,commissioners.solar,available,64.99,64.99,low,low,13,namesilo,,,02/10/2026 02:36
 e2330615-eb17-4830-8ca8-d297578144d4,quiver.solar,available,67.98,81.98,high,low,6,namecheap,,,11/09/2026 19:13
@@ -373,6 +395,7 @@ d7b0aaab-f202-415a-b33e-4a51ae4aa040,clench.solar,available,67.98,81.98,medium,l
 80f5fa88-a248-408f-9001-8f327deeefea,satiate.solar,available,64.99,64.99,high,low,7,namesilo,,,09/09/2026 14:28
 d8b92bd5-51e8-4df1-80b6-83453a110959,conquered.solar,available,5.57,53.72,medium,low,9,dynadot,,,28/09/2026 23:05
 5047c5bf-ec15-4c45-b1f3-a262dc377080,outbred.solar,available,67.98,81.98,medium,low,7,namecheap,,,04/09/2026 19:03
+a6484f16-8330-4504-b43b-941f87cce0be,tampere.solar,available,51.95,51.95,medium,low,7,spaceship,,,02/10/2026 06:33
 bc9e55c0-c1e2-4f39-a02c-ea1e75df444f,sewers.solar,available,51.95,51.95,low,low,6,spaceship,,,01/10/2026 16:30
 d5283090-924b-476d-bc71-725ccfc54281,biogeny.solar,available,67.98,81.98,medium,low,7,namecheap,,,23/09/2026 18:05
 aa5627f5-8bcb-4c54-94ac-536eae9c30b8,darlington.solar,available,64.99,64.99,high,low,10,namesilo,,,27/09/2026 06:24
@@ -382,12 +405,15 @@ d8504f66-9eca-45b9-8e77-8b4216d10321,manuscripts.solar,available,64.99,64.99,med
 f5a31d89-f501-449d-bfd8-86e813889431,actuality.solar,available,64.99,64.99,high,low,9,namesilo,,,17/09/2026 05:19
 a4fdd186-f7af-4b81-b642-4e47e0b1c1f3,alcalde.solar,available,64.99,64.99,medium,low,7,namesilo,,,18/09/2026 03:47
 32d2fdb9-f7d0-48f9-879b-27d86d07b911,likes.solar,available,9.99,,medium,low,5,name.com,,,
+83298d82-fdd0-4a29-990f-25b372628d12,apprehensive.solar,available,51.95,51.95,medium,low,12,spaceship,,,02/10/2026 06:57
 2bea7372-2ce2-4a54-9e71-20c7df673d17,aided.solar,available,9.99,83.99,high,low,5,name.com,,,19/09/2026 12:43
 5e9d44f3-9a82-4f84-9ffb-bc7447b5f53b,forwarding.solar,available,64.99,64.99,high,low,10,namesilo,,,30/09/2026 09:44
 f23b0ddf-cc88-4c1b-ba1c-61a7407b5f05,residuum.solar,available,64.99,64.99,medium,low,8,namesilo,,,09/09/2026 15:07
 5e807584-a010-4b18-8e76-22d27484b382,scurrilous.solar,available,9.99,83.99,medium,low,10,name.com,,,
+bd105629-04fd-4ede-b293-f2634f06000c,paulette.solar,available,50.2,50.2,medium,low,8,cloudflare,,,03/10/2026 05:08
 d582517f-da15-432b-872d-57d7e9383a43,sulfurized.solar,available,9.99,83.99,medium,low,10,name.com,,,11/09/2026 01:25
 6e350927-c5f4-4396-a578-12068ff2a973,mallet.solar,available,50.2,50.2,high,low,6,cloudflare,,,02/10/2026 05:43
+df48b30e-7032-4750-9673-f351c6ffa926,cauldron.solar,available,64.99,64.99,high,low,8,namesilo,,,02/10/2026 14:31
 48a59547-e5d6-4fc9-8f70-d487792a2f9e,identifiable.solar,available,5.66,52.01,high,low,12,porkbun,,,01/10/2026 22:54
 1b61754a-c1bd-4836-8ebf-e49beef45f24,washington.solar,resell,,,high,low,10,"Spaceship, Inc.",09/04/2014 22:11,09/04/2027 22:11,28/09/2026 20:59
 b8b3eb3c-856c-4d40-9f11-ebf66faf3d81,seized.solar,available,9.99,,medium,low,6,name.com,,,
@@ -399,17 +425,21 @@ b515caac-9734-42e0-a597-1051f5cfe723,functioning.solar,available,51.95,51.95,hig
 9cbe74db-a47f-4a1a-a894-f4d39d446442,jaya.solar,available,51.95,51.95,high,low,4,spaceship,,,30/09/2026 05:18
 4e3229b2-72ac-4dad-92b4-8e9140ed300a,mev.solar,available,51.95,51.95,high,low,3,spaceship,,,29/09/2026 10:55
 e7e3508e-2b94-4d88-a3d4-7f9a3065fefb,winds.solar,resell,,,medium,low,5,,,,27/09/2026 22:44
+7869129f-ce9d-443a-ad50-24242da1ad08,beulah.solar,available,51.95,51.95,medium,low,6,spaceship,,,03/10/2026 05:06
 52beb18f-e012-49e8-bad4-5ab9f2eb57cc,cellar.solar,available,64.99,64.99,high,low,6,namesilo,,,22/09/2026 10:16
+2ec3be1e-2f9c-4998-a625-f8061fd40b6f,heartache.solar,available,64.99,64.99,medium,low,9,namesilo,,,02/10/2026 14:29
 545ca680-24b3-42c2-9f94-2f44c8056964,edwards.solar,available,5.57,53.72,medium,low,7,dynadot,,,28/09/2026 09:34
 895e46d7-fc8a-448f-acaf-cf462d2ca9a3,decolour.solar,available,64.99,64.99,medium,low,8,namesilo,,,24/09/2026 05:11
 f6b4b7ad-5641-43c4-9128-2ddc9feede50,acreage.solar,available,67.98,81.98,high,low,7,namecheap,,,17/09/2026 02:51
 c47dc884-970d-4c51-b60a-0e8e79fc440a,projectile.solar,available,64.99,64.99,high,low,10,namesilo,,,09/09/2026 02:59
 8ec33118-2cf0-4562-b7a1-42f4b31fcf6e,pity.solar,available,64.99,64.99,high,low,4,namesilo,,,23/09/2026 16:56
+e68ecf21-a41b-47f1-8453-80a96cff63a5,noting.solar,available,67.98,81.98,medium,low,6,namecheap,,,03/10/2026 03:04
 9c320251-a2a7-49e4-9bda-d5b3f82e1ca0,multicolor.solar,available,64.99,64.99,high,low,10,namesilo,,,03/09/2026 10:35
 124bae71-fafb-4da4-b46c-1343054dda1e,decorator.solar,available,5.66,52.01,high,low,9,porkbun,,,01/10/2026 01:42
 8a50ecbb-8dfa-42d0-a321-31b0b0bf1b22,compeer.solar,available,9.99,83.99,medium,low,7,name.com,,,17/08/2026 11:35
 42482a19-66d3-4ce0-b611-667fd1895127,ingrowing.solar,available,9.99,83.99,medium,low,9,name.com,,,22/08/2026 04:54
 8989e2df-1f3f-4cf6-bd18-46ef59e9b8cf,odium.solar,available,64.99,64.99,medium,low,5,namesilo,,,16/09/2026 15:27
+92970834-9e05-4ee3-b11b-0e20aef516a4,justifiable.solar,available,51.95,51.95,high,low,11,spaceship,,,02/10/2026 18:06
 e536788f-9715-4499-ae00-5654c294ee6a,upstairs.solar,available,51.95,51.95,high,low,8,spaceship,,,28/09/2026 09:59
 fe85220c-8df0-4909-ab04-44a2dbb2374f,peruvian.solar,available,67.98,81.98,high,low,8,namecheap,,,08/09/2026 18:07
 db93c7cc-9224-47ed-9333-11a3c3174a82,dismissal.solar,available,51.95,51.95,high,low,9,spaceship,,,29/09/2026 15:57
@@ -420,6 +450,7 @@ fbad94bb-914c-423d-9666-0b982670d89f,payroll.solar,available,50.2,50.2,high,low,
 e769284c-f2f3-4bc5-898c-81438effb7ad,ferial.solar,available,9.99,83.99,medium,low,6,name.com,,,18/08/2026 01:56
 59ae6ff5-ef67-4eff-863f-1c610ca33392,preferred.solar,available,9.99,83.99,high,low,9,name.com,,,09/08/2026 17:53
 714d180a-b43b-4b31-b63f-469742756d36,mindfulness.solar,available,64.99,64.99,high,low,11,namesilo,,,29/09/2026 10:40
+f9f1af90-1d51-42b4-b729-6797a774d579,amendments.solar,available,50.2,50.2,medium,low,10,cloudflare,,,02/10/2026 13:51
 ea4ba93b-6900-4a92-a1ee-3e7a456edde6,arabis.solar,available,64.99,64.99,medium,low,6,namesilo,,,19/09/2026 23:33
 3e43c3b1-135e-481d-9521-8df85eebb3aa,combustive.solar,available,9.99,83.99,medium,low,10,name.com,,,12/08/2026 18:42
 0ec0b451-b9d5-4e4f-9a4e-5668c79fc248,hobble.solar,available,9.99,83.99,medium,low,6,name.com,,,23/08/2026 13:26
@@ -432,6 +463,7 @@ a0effcf3-ef6d-4b13-8007-e5679d51db77,tribute.solar,available,50.2,50.2,high,low,
 31f0945a-0716-4704-881e-a5cf94d861b8,cdc.solar,available,64.99,64.99,high,low,3,namesilo,,,25/09/2026 22:11
 440eb825-40ba-42b0-8c56-4d61681d7518,centroidal.solar,available,9.99,83.99,medium,low,10,name.com,,,12/08/2026 00:18
 3b844a90-ba3a-410a-8c33-4788d4e1ee9e,blackwash.solar,available,67.98,81.98,medium,low,9,namecheap,,,20/09/2026 15:47
+d3ab7f5e-4e9a-45fa-8e4a-d1bcea0057f1,birthdays.solar,available,50.2,50.2,medium,low,9,cloudflare,,,02/10/2026 22:50
 7031fc9c-709a-44be-af93-c62b2face45a,resect.solar,available,9.99,83.99,medium,low,6,name.com,,,17/08/2026 15:12
 6d1ac69c-6897-45df-8d2c-4f69e770bb5e,araneae.solar,available,64.99,64.99,medium,low,7,namesilo,,,20/09/2026 00:06
 ebc82d10-ce4d-42e9-b8d9-1ed9fe675462,woodbine.solar,available,67.98,81.98,medium,low,8,namecheap,,,18/09/2026 20:11
@@ -457,10 +489,13 @@ dbd30d08-c428-4cd5-8f69-c5c1cf4b1452,appalachia.solar,available,67.98,81.98,medi
 3a092d2b-f779-4c62-b8d8-31cecca52f53,embryonic.solar,available,9.99,83.99,medium,low,9,name.com,,,16/08/2026 13:28
 dc14e939-c6a3-405e-92d3-8a65ecfc084b,drag.solar,available,64.99,64.99,high,low,4,namesilo,,,25/09/2026 22:05
 ff929f9d-8c4d-4609-9c4b-65a37ca6f4ae,siu.solar,available,51.95,51.95,medium,low,3,spaceship,,,01/10/2026 07:58
+1f19634b-f8f7-46e0-9261-2123816604ad,fillmore.solar,available,50.2,50.2,medium,low,8,cloudflare,,,03/10/2026 00:44
 e2b72b89-51fa-42d4-a905-e39455638618,chivalrous.solar,available,9.99,83.99,high,low,10,name.com,,,12/08/2026 06:14
 c51556f4-e2a6-4b84-b3c7-3cfa86d825a7,apache.solar,available,67.98,81.98,high,low,6,namecheap,,,19/09/2026 16:09
 c7ab06e2-1fa9-4d85-b0c1-c05a1e638e1f,overflow.solar,available,50.2,50.2,high,low,8,cloudflare,,,30/09/2026 06:17
+1533515e-181b-413d-aef7-a98286eedc89,commedia.solar,available,5.66,52.01,high,low,8,porkbun,,,02/10/2026 23:15
 3fbb93bc-cd6c-4722-b6a8-2d457721c0d7,stylized.solar,available,64.99,64.99,high,low,8,namesilo,,,08/09/2026 05:30
+5cce4d07-6268-4255-9378-7b8f68ea7813,advocated.solar,available,51.95,51.95,medium,low,9,spaceship,,,02/10/2026 21:39
 ec7501ed-c285-4fb7-abb1-e48778c209ae,intentional.solar,available,50.2,50.2,high,low,11,cloudflare,,,28/09/2026 21:07
 2f95f194-f63e-47c7-aca0-92050159aff4,curiosity.solar,available,51.95,51.95,high,low,9,spaceship,,,29/09/2026 13:03
 4fe098d8-6e86-4150-96a1-dfe31f72a8a5,possession.solar,available,64.99,64.99,high,low,10,namesilo,,,30/09/2026 05:10
@@ -470,6 +505,7 @@ b95aff02-005d-4268-ac96-bc53e140f279,antagonist.solar,available,64.99,64.99,high
 17528ef0-b2e0-4897-b9d1-5b0a4baf569c,servile.solar,available,64.99,64.99,medium,low,7,namesilo,,,10/09/2026 04:55
 c9a161ce-2adc-4593-b685-b32c7b9ce13e,commando.solar,available,64.99,64.99,high,low,8,namesilo,,,01/10/2026 01:32
 4f658fdf-ed39-44a5-a151-74675ce49a54,negligible.solar,available,64.99,64.99,medium,low,10,namesilo,,,03/09/2026 15:08
+24c083d9-bcee-48f0-88c9-5710cd62f7da,elasticity.solar,available,64.99,64.99,high,low,10,namesilo,,,02/10/2026 14:59
 c5c71f4b-598e-4779-b455-af13fc51a208,mosquito.solar,available,50.2,50.2,medium,low,8,cloudflare,,,30/09/2026 05:20
 64278526-2ae7-44e7-b999-598163d4877d,abadan.solar,available,64.99,64.99,medium,low,6,namesilo,,,16/09/2026 13:48
 abb2e064-8539-46f1-8e1a-72367bf4dcb4,verbalize.solar,available,64.99,64.99,medium,low,9,namesilo,,,13/09/2026 00:14
@@ -496,14 +532,17 @@ b2193642-b326-47dd-a1c4-02a2bf404079,causing.solar,available,64.99,64.99,high,lo
 06308ceb-a0ac-4946-b589-dd2d72c92252,clogging.solar,available,9.99,83.99,medium,low,8,name.com,,,12/08/2026 11:41
 de64d176-083a-40b9-97e5-7678349ce974,consumable.solar,available,9.99,83.99,high,low,10,name.com,,,12/08/2026 23:04
 ec4710d2-2dd6-4ae4-abbc-89e35624abc7,chairwoman.solar,available,51.95,51.95,high,low,10,spaceship,,,29/09/2026 07:58
-6d886161-7009-4ef8-be59-6b90eeafbff4,standon.solar,available,9.99,,medium,low,8,name.com,,,
+6d886161-7009-4ef8-be59-6b90eeafbff4,standon.solar,available,51.95,51.95,medium,low,8,spaceship,,,03/10/2026 02:01
 570e6b23-c5a5-42d1-9daa-4a1e2c06aadf,bizet.solar,available,64.99,64.99,medium,low,5,namesilo,,,23/09/2026 23:23
 8c022937-3b93-4085-946d-8d2f708475bb,troubling.solar,available,9.99,83.99,medium,low,9,name.com,,,14/08/2026 13:19
 0b1dc94c-ed5b-4fe0-ad99-4c1d3894b633,sublunar.solar,available,9.99,83.99,medium,low,8,name.com,,,12/08/2026 08:27
 8a3e5321-9ca2-4824-a6ca-14c518a0b61b,pliant.solar,available,9.99,83.99,medium,low,6,name.com,,,09/08/2026 14:11
 60954e20-be30-4b9c-93e6-61b370694617,steroids.solar,available,67.98,81.98,medium,low,8,namecheap,,,19/09/2026 19:38
 0b6cd8f6-1765-433a-a17b-19e4a0bdbb29,berk.solar,available,64.99,64.99,medium,low,4,namesilo,,,23/09/2026 09:31
+8295155f-2348-463b-a81b-2037e5832079,selectively.solar,available,64.99,64.99,medium,low,11,namesilo,,,03/10/2026 03:28
 0178ec42-7571-47ff-9981-98db7403f39b,calced.solar,available,9.99,83.99,medium,low,6,name.com,,,11/08/2026 13:41
+c5a87d8d-7aa3-41e4-9ad0-ce6b93606191,dramas.solar,available,64.99,64.99,medium,low,6,namesilo,,,02/10/2026 13:47
+19c75354-3a18-4545-a82c-04fc16faa262,watercraft.solar,available,64.99,64.99,high,low,10,namesilo,,,02/10/2026 17:08
 62a5c4d2-fc7f-4954-875a-52a96ad515ac,telugu.solar,available,51.95,51.95,medium,low,6,spaceship,,,29/09/2026 20:30
 f513e4cd-2fcc-4960-ace9-2aeaaa81bd6c,appearing.solar,available,67.98,81.98,high,low,9,namecheap,,,19/09/2026 20:25
 26c3c9bd-2a2b-47f6-800d-76b4969b0f95,prophetic.solar,available,9.99,83.99,high,low,9,name.com,,,09/09/2026 03:36
@@ -532,6 +571,7 @@ b1ac73be-9f5a-4407-85b3-93de5ffc7a88,denham.solar,available,5.57,53.72,medium,lo
 4fbfc2c6-b472-42b4-990d-94de1050735f,stearns.solar,available,51.95,51.95,medium,low,7,spaceship,,,28/09/2026 12:25
 89d8fe62-d12b-4806-a855-26cdb4782ee7,tow.solar,available,67.98,81.98,high,low,3,namecheap,,,30/09/2026 13:23
 feed53ed-a49b-4fdc-806c-7254a10859cc,announces.solar,available,67.98,81.98,medium,low,9,namecheap,,,21/09/2026 01:47
+a799633f-3245-4898-be09-695899d5a05d,dentists.solar,available,64.99,64.99,medium,low,8,namesilo,,,02/10/2026 23:29
 b6d3f631-0f26-468d-a0b4-80a4b0fef1ad,paola.solar,available,50.2,50.2,medium,low,5,cloudflare,,,30/09/2026 15:17
 819fc4d4-ae7e-4ee1-9e6a-a4c074b945a5,lobar.solar,available,9.99,83.99,medium,low,5,name.com,,,24/08/2026 08:33
 7f8ce672-a525-4219-aada-cbced33318c3,wilted.solar,available,9.99,83.99,medium,low,6,name.com,,,23/08/2026 13:24
@@ -586,6 +626,7 @@ f5e2dfea-905e-42f1-ab4e-a3014c06a256,trebuchet.solar,available,64.99,64.99,mediu
 f5139028-d9fc-44ce-aa7d-ac93ba5a63c6,beak.solar,available,64.99,64.99,high,low,4,namesilo,,,22/09/2026 19:41
 22743d63-1a86-4800-9730-149dbf16632f,antipodes.solar,available,67.98,81.98,medium,low,9,namecheap,,,19/09/2026 14:59
 ef4fda0e-91ac-4077-8b39-ee410e715225,intentionally.solar,available,50.2,50.2,medium,low,13,cloudflare,,,28/09/2026 21:25
+11864bde-a22b-441b-a619-94e6bc91f74d,gasping.solar,available,64.99,64.99,medium,low,7,namesilo,,,02/10/2026 07:24
 c50c6804-718b-41c2-a963-b88288d914d0,agromania.solar,available,67.98,81.98,medium,low,9,namecheap,,,17/09/2026 19:38
 a31255cd-f310-4864-a909-de74648d885a,secular.solar,available,9.99,83.99,medium,low,7,name.com,,,22/08/2026 18:49
 9e403624-bb0a-4e89-a5e2-7054d0b8e70a,planting.solar,available,51.95,51.95,high,low,8,spaceship,,,28/09/2026 20:12
@@ -601,7 +642,7 @@ a5d8e54c-a2f9-4731-ab9d-8ac62042b895,struggle.solar,available,64.99,64.99,high,l
 9bf3bd50-9411-48c1-9e4c-fc7a0e40a594,laborer.solar,available,64.99,64.99,high,low,7,namesilo,,,30/09/2026 01:52
 8901becf-3aee-413b-bdb1-143ddb0d3f88,lipstick.solar,available,64.99,64.99,high,low,8,namesilo,,,02/10/2026 05:27
 5c50a0c5-8843-4afa-8314-649713b34e4a,supplicant.solar,available,64.99,64.99,medium,low,10,namesilo,,,11/09/2026 03:28
-50d571ac-0bf8-47f8-80e4-7356d7b6ba84,computer.solar,premium,207.2,414.2,high,medium,8,spaceship,,,28/09/2026 08:32
+50d571ac-0bf8-47f8-80e4-7356d7b6ba84,computer.solar,premium,440,440,high,medium,8,dynadot,,,02/10/2026 11:27
 0656b622-7a31-42ef-aaae-534cae96a9ff,wigeon.solar,available,64.99,64.99,medium,low,6,namesilo,,,19/09/2026 03:00
 f9e614c8-6e5d-4918-97d4-a725cba3710d,household.solar,available,67.98,81.98,high,low,9,namecheap,,,29/09/2026 18:57
 d3ef476c-8090-444f-81b8-b2fa9d652561,railing.solar,available,64.99,64.99,high,low,7,namesilo,,,30/09/2026 02:38
@@ -635,6 +676,7 @@ af057cdc-bb24-4b92-94e5-fed29260ce42,mineral.solar,available,64.99,64.99,high,lo
 fd77f4ba-6d06-4e74-aae4-c36a0dd2fdc7,moonstruck.solar,available,9.99,83.99,medium,low,10,name.com,,,24/08/2026 11:18
 e0b85565-be80-4dd9-aa89-b27e3b091e06,haired.solar,available,9.99,83.99,medium,low,6,name.com,,,20/08/2026 22:09
 349e1c8b-adcc-486f-8de1-3441fecbded1,proximity.solar,available,5.66,52.01,high,low,9,porkbun,,,29/09/2026 19:29
+07ea106b-b22b-4454-9b87-c8c2b778572c,intruders.solar,available,51.95,51.95,medium,low,9,spaceship,,,02/10/2026 23:29
 fabc3973-77d4-4770-b182-b0acdfebc2d2,hits.solar,available,64.99,64.99,high,low,4,namesilo,,,19/09/2026 23:53
 0bf49e17-5139-47a3-9aa0-707959c04eb7,liberating.solar,available,51.95,51.95,high,low,10,spaceship,,,30/09/2026 19:42
 e3eb2617-68b0-4001-b5f7-525bfa744306,aardvark.solar,available,64.99,64.99,high,low,8,namesilo,,,16/09/2026 13:21
@@ -651,10 +693,11 @@ cca21e70-a782-4513-ace7-147d6af0589a,abductor.solar,available,64.99,64.99,medium
 fdda09a6-735b-4fdb-8981-4268ddde9ddf,ultimately.solar,available,5.57,53.72,medium,low,10,dynadot,,,28/09/2026 12:39
 220b08d0-3de6-4680-827e-5db387b51e34,baraka.solar,available,64.99,64.99,high,low,6,namesilo,,,22/09/2026 04:07
 1e2d22d4-05f9-4ffe-978e-149777fa1953,aspiration.solar,available,67.98,81.98,high,low,10,namecheap,,,18/09/2026 16:53
+3415ff1d-1429-4032-84cc-76488043e1c8,vga.solar,available,50.2,50.2,high,low,3,cloudflare,,,02/10/2026 19:59
 1e29be20-0bf1-41c8-9c48-585cfb1a39b6,delaying.solar,available,51.95,51.95,medium,low,8,spaceship,,,30/09/2026 04:10
 d15665a3-028f-489d-b1d2-f4fa4f67ced6,coupon.solar,available,64.99,64.99,high,low,6,namesilo,,,24/09/2026 18:44
 ccbbbf27-4dbb-4f3c-9b9a-bea752ec389e,opt.solar,available,51.95,51.95,high,low,3,spaceship,,,30/09/2026 21:14
-79ed2cff-5504-4408-8a3b-d6c5450782d3,turnout.solar,available,5.66,52.01,high,low,8,porkbun,,,29/09/2026 07:04
+79ed2cff-5504-4408-8a3b-d6c5450782d3,turnout.solar,available,64.99,64.99,high,low,8,namesilo,,,03/10/2026 01:28
 9c7ee24e-e666-4116-9115-e1b80bd81e23,precious.solar,available,9.99,83.99,high,low,8,name.com,,,12/08/2026 04:19
 cfa1645f-41b8-46ba-82c6-67506909dd88,sexes.solar,available,51.95,51.95,medium,low,5,spaceship,,,01/10/2026 15:53
 17b04a4a-a09e-43f0-87de-6b9bbdc466ef,barbuda.solar,available,64.99,64.99,medium,low,7,namesilo,,,22/09/2026 05:04
@@ -672,6 +715,7 @@ fe4c26f8-c01a-4f8a-8893-e5b0e40c9398,isabelle.solar,available,64.99,64.99,high,l
 97317041-f6a8-4c7e-a8c2-681df26d2a89,payable.solar,available,9.99,83.99,high,low,7,name.com,,,12/08/2026 16:58
 13c45a75-cc41-4573-acea-919386560961,stuffing.solar,available,51.95,51.95,high,low,8,spaceship,,,29/09/2026 14:01
 d1ea438a-15b9-4c75-b583-363e19fc8d8e,kechua.solar,available,9.99,83.99,medium,low,6,name.com,,,22/08/2026 15:23
+9b1ca2fe-90cc-409b-99e8-b47d67f51d4f,kiki.solar,available,51.95,51.95,high,low,4,spaceship,,,02/10/2026 17:29
 e553b5c3-78fc-4ee9-9515-960f17599857,feeding.solar,available,67.98,81.98,high,low,7,namecheap,,,25/09/2026 22:30
 7555031b-04ca-43ec-8bf8-f254ca7af4b5,fruit.solar,available,51.95,51.95,high,low,5,spaceship,,,29/09/2026 20:03
 1f430285-2495-4dbb-b678-6ccd52bd9c45,abdallah.solar,available,64.99,64.99,medium,low,8,namesilo,,,29/09/2026 21:48
@@ -689,6 +733,7 @@ ad5d656b-d749-42d2-9c10-ed25294cd0a0,loses.solar,available,64.99,64.99,medium,lo
 2d9b921b-5225-4935-8bcb-294db4bdaf95,ecumenical.solar,available,9.99,83.99,medium,low,10,name.com,,,15/08/2026 04:38
 4e1d204b-a7bb-4a93-89b3-2cd190d01b53,kilometre.solar,available,50.2,50.2,high,low,9,cloudflare,,,30/09/2026 01:35
 65d53c4e-8ec4-461c-8208-7e6d71d4cb53,wroth.solar,available,64.99,64.99,medium,low,5,namesilo,,,13/09/2026 13:38
+72bd0268-95ec-466a-a3bb-f7d01fa87a90,vicar.solar,available,64.99,64.99,high,low,5,namesilo,,,02/10/2026 17:05
 6320ac07-2045-4a3e-8744-8e208f19ab71,essentially.solar,available,64.99,64.99,medium,low,11,namesilo,,,28/09/2026 07:07
 0f7e754a-7bcc-4df8-a8dc-9514ae850a91,projector.solar,available,67.98,81.98,high,low,9,namecheap,,,29/09/2026 20:04
 28c0b2c3-2436-433e-886d-040e2781e815,accountant.solar,available,64.99,64.99,high,low,10,namesilo,,,16/09/2026 23:11
@@ -701,6 +746,7 @@ b21e1f65-80dd-43b2-86b0-b5c7881ed7fd,buchan.solar,available,5.66,52.01,medium,lo
 5cd48f3c-b423-4b17-8b2f-0b52151eedb7,flagship.solar,available,50.2,50.2,high,low,8,cloudflare,,,30/09/2026 17:19
 6b9ceb80-cff9-4eb8-8168-d0b7db82c6f2,ppg.solar,available,64.99,64.99,high,low,3,namesilo,,,29/09/2026 23:32
 dc9f6cd3-373e-4de5-ae52-e64e54252c03,radish.solar,available,67.98,81.98,high,low,6,namecheap,,,24/09/2026 20:53
+5d447f0b-6e95-4fdc-8a37-c3a86f4be678,adlai.solar,available,51.95,51.95,medium,low,5,spaceship,,,03/10/2026 04:50
 8400e014-ce01-4b52-a39e-d900ef5ec997,harlot.solar,available,9.99,83.99,medium,low,6,name.com,,,13/08/2026 14:19
 4a81fd86-f1d5-472b-a644-3d279684701d,abashed.solar,available,9.99,83.99,medium,low,7,name.com,,,
 3212b21f-e1d7-4cb0-8c29-d1ce0d825e79,heroically.solar,available,64.99,64.99,high,low,10,namesilo,,,15/09/2026 00:39
@@ -720,13 +766,16 @@ f7ff2721-f180-4519-91a0-eee16aff37d8,sector.solar,available,64.99,64.99,high,low
 a1b8ae53-e517-43fb-8657-82de460d55d2,interview.solar,available,51.95,51.95,high,low,9,spaceship,,,29/09/2026 11:18
 aa6e537e-56fa-49c4-8e0b-cb1f2bfa64d6,geologic.solar,available,9.99,83.99,high,low,8,name.com,,,18/08/2026 22:30
 ea7b5b24-b61c-4c75-af5d-5aae1afc9562,rustic.solar,available,9.99,83.99,high,low,6,name.com,,,
+0987eb2d-4793-4f02-8e4f-903e9ad7b737,whitehall.solar,available,51.95,51.95,high,low,9,spaceship,,,02/10/2026 17:09
 fa955f93-4a6b-4737-8774-705ed4632261,airport.solar,available,5.57,53.72,high,low,7,dynadot,,,28/09/2026 19:10
 cea6de7c-474e-452f-aadd-207c3c515e76,sweeping.solar,available,64.99,64.99,high,low,8,namesilo,,,11/09/2026 05:31
 cd21e840-2b93-4fd6-8d81-e5cfde7f5210,bronzed.solar,available,9.99,83.99,medium,low,7,name.com,,,11/08/2026 05:43
 1ae01daa-9cc6-48a9-938b-913ee4f4ae5e,opens.solar,available,64.99,64.99,medium,low,5,namesilo,,,18/09/2026 23:02
+25f3d9cc-9e21-42ba-9eb9-1f5a25f6387a,kowalski.solar,available,50.2,50.2,medium,low,8,cloudflare,,,02/10/2026 12:31
 25324b72-0351-4810-ad87-a085e36be242,optimistic.solar,available,9.99,83.99,high,low,10,name.com,,,04/09/2026 17:07
 bcf05e37-e24f-4772-b907-0d57a6ce1b8f,errorless.solar,available,9.99,83.99,medium,low,9,name.com,,,17/08/2026 13:01
 2eafa865-73b4-465d-8e4d-1b715da2b0e1,documenting.solar,available,51.95,51.95,medium,low,11,spaceship,,,02/10/2026 03:07
+6cd4f068-4c87-43d7-82ee-b4ea84fbfc1c,rectifier.solar,available,50.2,50.2,high,low,9,cloudflare,,,03/10/2026 01:53
 33445356-c427-4174-9055-5e3d6537e252,environmentally.solar,available,9.99,,high,low,15,name.com,,,
 060210ff-6db3-4921-9bd5-3cc1c3cf9f16,outrage.solar,available,5.57,53.72,medium,low,7,dynadot,,,28/09/2026 10:08
 f5dd8a8b-0074-4d34-bb70-e5670ad8cff6,release.solar,available,67.98,81.98,high,low,7,namecheap,,,24/09/2026 21:38
@@ -738,6 +787,7 @@ f5dd8a8b-0074-4d34-bb70-e5670ad8cff6,release.solar,available,67.98,81.98,high,lo
 e7de466e-8c76-432a-bf83-afdee28497a5,powdery.solar,available,9.99,83.99,medium,low,7,name.com,,,18/08/2026 04:39
 df80e620-3f1a-460d-8d64-a4001f44f027,cult.solar,available,67.98,81.98,high,medium,4,namecheap,,,24/09/2026 19:17
 bc70474f-5fd1-4c4f-ac40-638588c3ef31,convicts.solar,available,51.95,51.95,medium,low,8,spaceship,,,30/09/2026 07:34
+c7b1bd93-ceca-493c-8719-1a669d4f158b,enhancing.solar,available,51.95,51.95,medium,low,9,spaceship,,,02/10/2026 12:23
 b0cd53ec-bc53-443e-a441-e5e11497a1d2,tabular.solar,available,64.99,64.99,high,low,7,namesilo,,,11/09/2026 06:55
 cc984932-53a4-41f1-b8fc-32e08d7ec7a9,bikes.solar,available,51.95,51.95,low,low,5,spaceship,,,29/09/2026 11:14
 6fac9390-0edf-4ae4-b7d4-3eecda4c339e,markham.solar,available,67.98,81.98,high,low,7,namecheap,,,27/09/2026 20:59
@@ -753,7 +803,7 @@ c59d6ed1-a0e8-4d06-ac4d-8cdc1d0f2a37,ballooning.solar,available,64.99,64.99,high
 c6bb6d74-a41c-4c01-8bcd-8f616284cd4e,offline.solar,available,64.99,64.99,high,medium,8,namesilo,,,04/09/2026 01:13
 14914fb6-0e4c-4969-933a-e37463cb2a06,jet.solar,resell,,,high,medium,3,"Sav.com, LLC - 33",28/08/2026 15:16,28/08/2027 15:16,26/09/2026 07:00
 6a81233d-ec22-439f-86eb-51dba5dbcab7,clergy.solar,available,5.57,53.72,high,low,6,dynadot,,,29/09/2026 09:59
-36027dd8-2e0f-4d28-bc98-21ba7a303b6e,mist.solar,available,64.99,64.99,high,low,4,namesilo,,,25/09/2026 23:43
+36027dd8-2e0f-4d28-bc98-21ba7a303b6e,mist.solar,available,67.98,81.98,high,low,4,namecheap,,,02/10/2026 23:46
 52a538ef-f4b3-44fe-a34e-d5dcb2c2ca11,nauvoo.solar,available,50.2,50.2,medium,low,6,cloudflare,,,30/09/2026 22:26
 e0c24950-f7d1-4003-9bd8-492d0f0e6ffd,notebook.solar,available,50.2,50.2,high,low,8,cloudflare,,,28/09/2026 10:36
 009383f4-c606-4b61-80ee-457388014fd5,doob.solar,available,67.98,81.98,medium,low,4,namecheap,,,21/09/2026 18:37
@@ -770,6 +820,7 @@ aba7f632-56c5-435c-9164-5580eccbd121,depart.solar,available,51.95,51.95,high,low
 759a2e8c-f33b-4d90-b891-18329bef28df,sleeper.solar,available,50.2,50.2,medium,low,7,cloudflare,,,29/09/2026 06:29
 5456b1f5-3064-4392-a8b8-2c086c40a53c,amends.solar,available,64.99,64.99,high,low,6,namesilo,,,18/09/2026 18:41
 32e1e240-a0f0-4e4e-ae62-6132e45ee102,regarding.solar,available,64.99,64.99,high,low,9,namesilo,,,27/09/2026 06:20
+9b4adde2-fa7a-46bd-bc2c-c3cd5befaaac,bribed.solar,available,51.95,51.95,low,low,6,spaceship,,,02/10/2026 13:46
 a1eb6f87-0b35-41d0-bf7d-3e64e4bc6754,clef.solar,available,64.99,64.99,medium,low,4,namesilo,,,24/09/2026 15:30
 639f5579-cbfa-4431-ba42-623f05542db9,suicides.solar,available,51.95,51.95,low,low,8,spaceship,,,02/10/2026 04:02
 b817e017-f49e-446b-bb70-52d72a43f402,werewolf.solar,available,50.2,50.2,high,low,8,cloudflare,,,01/10/2026 20:23
@@ -779,6 +830,8 @@ b0f386a0-027b-4767-a0b0-60148369559d,arriviste.solar,available,64.99,64.99,mediu
 3b3ec372-236b-4719-b725-6b0f65d9d85c,dextrous.solar,available,9.99,83.99,high,low,8,name.com,,,13/08/2026 23:53
 c3a6b63a-b072-4399-9fa9-3ebc9a3ed231,braky.solar,available,9.99,83.99,low,low,5,name.com,,,11/08/2026 01:57
 91d7ebca-6e0c-4ef6-a19f-f38d2e46e541,point.solar,available,51.95,51.95,high,low,5,spaceship,,,28/09/2026 15:57
+adb9e754-3985-41a1-80bf-d4601c5ad5be,fleets.solar,available,51.95,51.95,medium,low,6,spaceship,,,02/10/2026 23:02
+5413df27-f7a4-43ba-913e-757557aa87e8,nicolaus.solar,available,51.95,51.95,medium,low,8,spaceship,,,02/10/2026 10:17
 1195a380-73f4-4f5a-af60-feed97e7701c,nurture.solar,available,64.99,64.99,high,low,7,namesilo,,,09/09/2026 11:05
 df813b76-bf23-457d-9298-03f4f594c9f1,sterling.solar,resell,,,high,low,8,Dynadot Inc,27/01/2026 17:00,27/01/2027 17:00,26/09/2026 09:18
 a209bcce-dec6-4fc2-9c52-06f70421d6fb,nuptial.solar,available,9.99,83.99,high,low,7,name.com,,,11/08/2026 03:55
@@ -795,7 +848,8 @@ ba7aa552-2680-41f7-b9a4-558aa0be2f2c,emotions.solar,available,64.99,64.99,medium
 09cf1c7f-fc3e-4d03-b668-b4085e5bb959,hari.solar,available,51.95,51.95,high,low,4,spaceship,,,29/09/2026 09:52
 7b72647c-2b16-4446-8bd4-cdc54557fd56,glancing.solar,available,51.95,51.95,high,low,8,spaceship,,,01/10/2026 17:49
 c9f96244-5649-4bc8-9d6c-1b58c74cdac2,budge.solar,available,64.99,64.99,medium,low,5,namesilo,,,30/09/2026 16:30
-7ce0823e-600b-4a4b-aacb-b84bdf910bb5,shortcut.solar,available,51.95,51.95,high,low,8,spaceship,,,29/09/2026 13:56
+df3525c6-3762-4439-beb4-29434fd9dde1,appointing.solar,available,5.66,52.01,medium,low,10,porkbun,,,02/10/2026 11:49
+7ce0823e-600b-4a4b-aacb-b84bdf910bb5,shortcut.solar,available,67.98,81.98,high,low,8,namecheap,,,02/10/2026 21:28
 9ab0eceb-be5c-4c4d-8bea-b987ef5698e5,cooker.solar,available,67.98,81.98,high,low,6,namecheap,,,24/09/2026 18:03
 a2ab0dad-cc62-4825-9ec2-9cec5e2c348c,presented.solar,available,51.95,51.95,medium,low,9,spaceship,,,28/09/2026 08:35
 ef555924-5c9e-49ab-af9f-73f6486df1d4,perfume.solar,available,67.98,81.98,high,low,7,namecheap,,,27/09/2026 04:02
@@ -816,6 +870,7 @@ f40d067d-4f0c-43e8-8c1f-c9688b804427,asteroid.solar,available,64.99,64.99,high,l
 b49057f6-03f1-4429-b982-19386102eab2,addin.solar,available,64.99,64.99,high,low,6,namesilo,,,17/09/2026 06:37
 476a109c-4a13-4e67-aebf-c167ee029f54,deposit.solar,available,64.99,64.99,high,low,7,namesilo,,,28/09/2026 20:39
 a03e70fd-c079-41db-bc2d-6106f4998bb4,privileges.solar,available,64.99,64.99,medium,low,10,namesilo,,,28/09/2026 17:31
+b2201f10-303c-4b5f-9be4-04d2d86906f2,substandard.solar,available,5.66,52.01,medium,low,11,porkbun,,,03/10/2026 03:18
 98d84c9b-6b8a-4c75-adf9-9698a78313dc,dumfries.solar,available,64.99,64.99,medium,low,8,namesilo,,,30/09/2026 05:24
 3749cb1c-bd51-44ae-8265-01ee87d6f6e0,joyful.solar,available,9.99,83.99,high,low,6,name.com,,,20/08/2026 14:22
 c976b01c-76a0-4993-9abe-170630c536f8,songs.solar,available,67.98,81.98,high,low,5,namecheap,,,25/09/2026 19:03
@@ -829,8 +884,8 @@ ed49a937-f718-4b59-a8a7-65e90df588d2,formed.solar,available,9.99,83.99,high,low,
 d8d8fbfa-a67f-47cf-a776-cc12109920ac,adept.solar,available,64.99,64.99,high,low,5,namesilo,,,21/09/2026 17:17
 6acdd355-ba3f-48a1-a407-71187bf1faf4,olives.solar,available,64.99,64.99,medium,low,6,namesilo,,,20/09/2026 04:34
 81a6f653-23b6-4e28-ad1c-865ac9628041,imd.solar,available,64.99,64.99,high,low,3,namesilo,,,01/10/2026 23:35
-6865d206-6b45-4c8d-ba7e-791ea6d85828,rules.solar,available,64.99,64.99,high,low,5,namesilo,,,25/09/2026 13:40
-9a47f2f5-5275-4d35-8729-31f22af4159a,update.solar,available,64.99,64.99,high,low,7,namesilo,,,28/09/2026 03:15
+6865d206-6b45-4c8d-ba7e-791ea6d85828,rules.solar,available,51.95,51.95,high,low,5,spaceship,,,03/10/2026 02:08
+9a47f2f5-5275-4d35-8729-31f22af4159a,update.solar,available,5.57,53.72,high,low,7,dynadot,,,02/10/2026 21:17
 b1c23131-cc31-442e-9803-11447ed01d70,surprised.solar,available,67.98,81.98,high,low,9,namecheap,,,28/09/2026 02:04
 40b83861-4e74-48b3-bd83-06db61594916,keenan.solar,available,64.99,64.99,high,low,6,namesilo,,,28/09/2026 22:23
 864e7d45-f876-465b-91e2-5888810b7f26,trying.solar,available,64.99,64.99,high,low,6,namesilo,,,03/09/2026 15:44
@@ -842,12 +897,15 @@ cb43385e-cca5-49f6-9a57-27d94e6111ee,biologist.solar,available,67.98,81.98,high,
 2b8ae956-ec58-4532-9128-f67edf4385e6,claudius.solar,available,5.57,53.72,high,low,8,dynadot,,,01/10/2026 18:58
 d9d13639-0853-46ac-8daf-eb64cd835bfd,matutinal.solar,available,9.99,83.99,medium,low,9,name.com,,,24/08/2026 17:33
 487ac5fc-b77b-4407-b0b0-04f2be7ba65e,glass.solar,premium,280,560,high,low,5,namecheap,,,29/09/2026 14:00
+0519bc46-51ee-4807-b666-00f5cf800086,freighter.solar,available,50.2,50.2,medium,low,9,cloudflare,,,02/10/2026 15:20
 c451b44b-c724-4810-ad9f-f9ee3324de23,styleless.solar,available,64.99,64.99,low,low,9,namesilo,,,10/09/2026 23:15
 4746df2f-04d3-4287-b67a-e3a112f719d7,otc.solar,available,64.99,64.99,high,low,3,namesilo,,,04/09/2026 18:34
 1d6a7ed7-7bd3-4d6b-b02d-d3a3274dfb08,aboveboard.solar,available,9.99,83.99,medium,low,10,name.com,,,
+f372a3c8-08c4-4531-93a2-8cdf099b70d1,maugham.solar,available,51.95,51.95,medium,low,7,spaceship,,,03/10/2026 01:35
 91314ac4-5032-4953-9899-e510ca23cd92,analecta.solar,available,64.99,64.99,medium,low,8,namesilo,,,19/09/2026 01:47
 662d8963-1d5f-46d5-961b-4be18f7488cd,zovirax.solar,available,67.98,81.98,medium,low,7,namecheap,,,17/09/2026 05:42
 c7664ba3-af9e-44f8-835b-08dbccbd402b,leopard.solar,available,51.95,51.95,high,low,7,spaceship,,,28/09/2026 06:09
+b5d57c5c-6b01-4ecf-9f28-42a0569d598e,dundalk.solar,available,50.2,50.2,medium,low,7,cloudflare,,,02/10/2026 20:51
 58d90f7f-b2a1-46e5-a45e-3e713da148f8,intro.solar,available,64.99,64.99,high,low,5,namesilo,,,30/09/2026 00:18
 05c7b010-e08d-44d0-a60d-7dc442a648cf,swimmer.solar,available,67.98,81.98,high,low,7,namecheap,,,22/09/2026 13:29
 f3480dbd-db7b-4aa3-a98d-43e150a3d663,brawl.solar,available,64.99,64.99,high,low,5,namesilo,,,29/09/2026 11:45
@@ -857,12 +915,14 @@ e085c8ce-23f7-4af6-a25f-b799f29af581,actias.solar,available,64.99,64.99,medium,l
 b8395677-21f3-4544-b722-0ca255e8d959,salary.solar,available,5.66,52.01,high,low,6,porkbun,,,30/09/2026 06:29
 e338190c-b717-4fe6-8b6f-586da02bdc74,rashes.solar,available,67.98,81.98,low,low,6,namecheap,,,19/09/2026 21:50
 5953f738-a217-4474-9cfa-15ba178e71bd,underworld.solar,available,64.99,64.99,medium,low,10,namesilo,,,28/09/2026 10:32
+e1f21f4e-4516-4943-b251-a74d50b7174b,tariq.solar,available,51.95,51.95,medium,low,5,spaceship,,,02/10/2026 08:45
 08376f2c-ea96-432f-973b-794e8167407f,amplitude.solar,available,64.99,64.99,high,low,9,namesilo,,,18/09/2026 23:46
 0fd7a01f-8fac-42cd-9070-2aa2e682557d,souvenirs.solar,available,5.66,52.01,medium,low,9,porkbun,,,01/10/2026 18:24
 a19f4101-cc36-4a82-a66f-0aa851466c04,nutbrown.solar,available,64.99,64.99,medium,low,8,namesilo,,,03/09/2026 23:14
 38a73137-c62f-483a-b197-34592380f597,troyes.solar,available,51.95,51.95,medium,low,6,spaceship,,,01/10/2026 08:31
 13377bae-7c7e-4d85-b8bd-671d8a2a9240,iatrogenic.solar,available,9.99,83.99,medium,low,10,name.com,,,21/08/2026 17:30
 651b94f9-3e52-4033-9899-2c74ff53dfe8,danbury.solar,available,67.98,81.98,medium,low,7,namecheap,,,29/09/2026 10:05
+a91663d5-8beb-4676-b50d-2ec0be850008,pitchers.solar,available,51.95,51.95,medium,low,8,spaceship,,,02/10/2026 13:59
 737f1a4b-ce3d-4a0a-893d-10c467a25cfc,flowery.solar,available,9.99,83.99,high,low,7,name.com,,,18/08/2026 09:09
 490bf096-955d-4690-aceb-11c05ef8edc9,exposed.solar,available,9.99,83.99,high,low,7,name.com,,,17/08/2026 18:37
 f5413ce7-c43b-4177-8be6-d331bd53486b,bligh.solar,available,64.99,64.99,medium,low,5,namesilo,,,01/10/2026 18:42
@@ -903,17 +963,22 @@ ede7bacf-317f-4f14-a331-0ce2052b38b2,brummagem.solar,available,9.99,83.99,medium
 47a184f4-49f3-48d6-a88d-f2b5e93f8731,uncultivated.solar,available,64.99,64.99,medium,low,12,namesilo,,,01/10/2026 05:35
 8d9e9797-208c-4d90-b0ca-7b182315789a,trap.solar,available,67.98,81.98,high,low,4,namecheap,,,25/09/2026 15:44
 1b628048-a859-48d4-be05-d3a048d9b711,antum.solar,available,67.98,81.98,medium,low,5,namecheap,,,19/09/2026 15:47
+a390dce3-538d-4116-92fa-5b6eb5b37beb,unfolding.solar,available,64.99,64.99,high,low,9,namesilo,,,02/10/2026 06:37
 a2270d92-16a8-4e79-8d19-84b072a7cebe,pluses.solar,available,67.98,81.98,medium,low,6,namecheap,,,21/09/2026 02:09
 292f4433-6d09-4996-9958-29145e0de6d6,meager.solar,available,9.99,83.99,medium,low,6,name.com,,,24/08/2026 18:02
 26f9bf0e-8be5-431a-b6b5-9e4568f6defd,westbury.solar,available,64.99,64.99,medium,low,8,namesilo,,,30/09/2026 05:55
 23306d15-0592-440e-aa5a-5a6f08f26dc2,accommodating.solar,available,51.95,51.95,medium,low,13,spaceship,,,30/09/2026 19:15
+b6cb7226-2eb7-4247-a4b6-ec401b842d53,alicante.solar,available,50.2,50.2,medium,low,8,cloudflare,,,02/10/2026 19:41
 6d2fb3a3-dd87-4e26-afc5-a625c1b624ea,abbott.solar,available,50.2,50.2,high,low,6,cloudflare,,,27/09/2026 17:56
 7520ddf4-d1d2-4724-a878-17a40c44b76d,slickly.solar,available,64.99,64.99,medium,low,7,namesilo,,,14/09/2026 21:36
 07049cc5-9f7b-45a0-bfef-19c124317f96,corey.solar,available,64.99,64.99,high,low,5,namesilo,,,26/09/2026 03:27
-764f49ed-4e80-49cd-9803-73a46efe5c22,launch.solar,available,5.66,52.01,high,medium,6,porkbun,,,30/09/2026 04:29
+764f49ed-4e80-49cd-9803-73a46efe5c22,launch.solar,available,64.99,64.99,high,medium,6,namesilo,,,02/10/2026 05:57
 8f0cfaaa-0b1b-444f-a0de-47d37572f8da,intoxicated.solar,available,64.99,64.99,medium,low,11,namesilo,,,30/09/2026 03:42
+8c2b108c-316e-440c-b8c6-2106f170c772,hydrate.solar,available,64.99,64.99,high,low,7,namesilo,,,03/10/2026 01:15
 4a5c7c81-ca41-42c2-b8c1-bd430909d6af,rican.solar,available,64.99,64.99,high,low,5,namesilo,,,25/09/2026 13:13
+8e415268-7a78-4a25-be88-3a41353d6571,skateboard.solar,available,51.95,51.95,high,low,10,spaceship,,,02/10/2026 06:25
 c1c3bed3-f994-4607-9203-38fe6daa882d,mirthful.solar,available,9.99,83.99,high,low,8,name.com,,,12/08/2026 19:00
+932ca22e-a4bc-4f01-80b2-60a29f36b798,millimeters.solar,available,64.99,64.99,medium,low,11,namesilo,,,02/10/2026 23:28
 a54f9818-6fad-4e28-be9a-40f8a806100e,corporeal.solar,available,9.99,83.99,medium,low,9,name.com,,,13/08/2026 01:54
 e49fdf8e-72e4-41d2-a638-ed1d20319166,backfire.solar,available,64.99,64.99,high,low,8,namesilo,,,21/09/2026 15:28
 672a4baf-37b0-46f2-b62e-22e8411f3f65,ruinous.solar,available,9.99,83.99,medium,low,7,name.com,,,10/08/2026 13:28
@@ -930,72 +995,7 @@ b4641d0f-4127-4f00-8846-27a1b8d89d65,hepworth.solar,available,64.99,64.99,medium
 19b12836-83c4-4fa3-ada0-b803c2b7b7be,agave.solar,available,64.99,64.99,high,low,5,namesilo,,,17/09/2026 16:37
 8f422c4e-0c56-405b-8e5c-8d964f141a2a,getatable.solar,available,9.99,83.99,medium,low,9,name.com,,,18/08/2026 23:00
 3e059448-9092-46c0-a0e5-609cf079ca59,doorstep.solar,available,51.95,51.95,high,low,8,spaceship,,,30/09/2026 09:23
+97568827-a643-44e3-9e90-5fe9cb35dd5e,twp.solar,available,64.99,64.99,medium,low,3,namesilo,,,02/10/2026 17:44
 9b2aa856-405f-48ed-b2ae-5ff71dff249c,hilo.solar,available,50.2,50.2,high,low,4,cloudflare,,,30/09/2026 10:07
 692f6c7a-ad0b-4636-ae68-2abd8f244228,kun.solar,available,64.99,64.99,high,low,3,namesilo,,,30/09/2026 13:03
 b3837ec7-2025-48bc-8f70-0709a8f09e66,philip.solar,available,50.2,50.2,high,low,6,cloudflare,,,29/09/2026 17:06
-3f2addb9-1d51-4a59-8c63-1b29ac9569e7,offended.solar,available,64.99,64.99,medium,low,8,namesilo,,,04/09/2026 01:24
-4009e9b5-86d3-46f0-9098-707d4fdec605,periodic.solar,available,64.99,64.99,medium,low,8,namesilo,,,08/09/2026 17:11
-03685436-c0c2-41ae-8014-1a3700e56959,ordering.solar,available,64.99,64.99,high,low,8,namesilo,,,27/09/2026 15:05
-48040495-a50a-4f91-8f2e-1b076c1eb84e,identified.solar,available,67.98,81.98,high,low,10,namecheap,,,25/09/2026 07:25
-d74bb78d-6dd5-493a-ba5a-5b8410ddf8b4,utile.solar,available,64.99,64.99,high,low,5,namesilo,,,13/09/2026 00:01
-840a3caf-4c86-46c5-8e58-4998638298e9,extradition.solar,available,51.95,51.95,medium,low,11,spaceship,,,01/10/2026 15:51
-eb5fddc5-8360-4af1-8f8c-a49718524846,inexpensive.solar,available,51.95,51.95,high,low,11,spaceship,,,01/10/2026 01:44
-95aa47de-592c-4d07-b04a-f257d2a59163,killer.solar,available,67.98,81.98,high,low,6,namecheap,,,24/09/2026 13:14
-402dccc8-abdd-4e5a-aa62-bd57687a8333,period.solar,available,50.2,50.2,high,low,6,cloudflare,,,29/09/2026 07:41
-ebeef5da-9366-4f43-88ad-8b717d03e3c3,appearance.solar,available,9.99,83.99,high,low,10,name.com,,,08/09/2026 12:55
-8933b324-3207-4799-9fb8-a4c282c84125,folder.solar,available,64.99,64.99,high,low,6,namesilo,,,29/09/2026 03:36
-df7a577a-c2b8-4e03-af45-07a6851b91c4,unwilling.solar,available,64.99,64.99,medium,low,9,namesilo,,,12/09/2026 22:40
-bd8970c2-497c-4ed9-9c6d-bfa9d7c6f38c,shu.solar,available,51.95,51.95,high,low,3,spaceship,,,27/09/2026 21:11
-6e2daecd-a22f-4ded-a130-e2535fc34422,winona.solar,available,64.99,64.99,medium,low,6,namesilo,,,28/09/2026 22:06
-389bfcf7-b62d-4061-b378-fa09fdb592e6,lions.solar,available,9.99,,high,low,5,name.com,,,
-e0e8bb50-fa3b-4d82-9bb4-c611d717dbc7,forming.solar,available,51.95,51.95,medium,low,7,spaceship,,,28/09/2026 15:43
-09b52e44-9403-4e8b-a32e-a0e3985d528a,marker.solar,available,50.2,50.2,high,low,6,cloudflare,,,28/09/2026 06:21
-b2b4f434-ecf6-4b2e-aac7-5c1259db523d,peregrine.solar,available,9.99,83.99,medium,low,9,name.com,,,25/08/2026 02:20
-7e5f1642-e5aa-4155-9435-fd75351008ed,regal.solar,available,64.99,64.99,high,low,5,namesilo,,,19/09/2026 11:09
-9cdf9997-1f77-4cbe-ae90-7309cd0e5ccb,runner.solar,available,67.98,81.98,high,low,6,namecheap,,,21/09/2026 22:22
-0c672611-ed55-4967-98a5-28713d0bc381,antiquark.solar,available,67.98,81.98,medium,low,9,namecheap,,,19/09/2026 15:02
-1e9f82b8-d389-483a-8b82-479f55037bb5,marlow.solar,available,64.99,64.99,high,low,6,namesilo,,,30/09/2026 00:14
-3ef01a48-d727-473f-a67a-c1816588773a,relevance.solar,available,5.57,53.72,high,low,9,dynadot,,,30/09/2026 09:36
-ae523c8e-ca5a-4d9a-b817-575136ce697b,blender.solar,available,64.99,64.99,high,low,7,namesilo,,,24/09/2026 05:44
-cff45890-584c-4e35-ab9b-23c4c1ac89c9,fitted.solar,available,9.99,83.99,high,low,6,name.com,,,18/08/2026 05:47
-4b27d6ea-592b-4bf1-8a2a-f4e960ab0445,industrialize.solar,available,64.99,64.99,medium,low,13,namesilo,,,01/10/2026 08:51
-a9344597-9cfb-40e4-9e3e-aac88392e0be,literally.solar,available,5.66,52.01,medium,low,9,porkbun,,,28/09/2026 16:10
-0f33737a-8884-440a-b601-c2f2f766b54b,bulky.solar,available,64.99,64.99,medium,low,5,namesilo,,,23/09/2026 10:36
-117954d0-501a-4298-9727-54eb6267a108,legge.solar,available,64.99,64.99,medium,low,5,namesilo,,,01/10/2026 22:42
-3d385ef1-3863-4ac6-a391-dfa26ebdc361,reasonably.solar,available,64.99,64.99,medium,low,10,namesilo,,,25/09/2026 11:58
-b5f5ab78-63a3-4e9a-b9a5-cd8250c6e7bb,gpo.solar,available,64.99,64.99,high,low,3,namesilo,,,29/09/2026 12:57
-6491604b-4ad9-47ec-9f33-eaf4034017bd,beverley.solar,available,50.2,50.2,medium,low,8,cloudflare,,,29/09/2026 00:09
-3d003244-b615-44a1-8d44-0dbad89aeb4b,bute.solar,available,64.99,64.99,medium,low,4,namesilo,,,29/09/2026 22:36
-0971ad18-0227-4ec3-b66d-19bda28d9b73,quiesce.solar,available,67.98,81.98,medium,low,7,namecheap,,,09/09/2026 08:52
-3cba61da-6199-47ca-aacc-ddf3100fbb83,jabber.solar,available,51.95,51.95,high,low,6,spaceship,,,29/09/2026 20:23
-a141db4f-1047-4832-8779-f6e2488a0e87,cosmetics.solar,available,51.95,51.95,high,low,9,spaceship,,,29/09/2026 04:53
-89098e55-235c-4e17-b7ac-f15b43284e81,tackle.solar,available,67.98,81.98,high,low,6,namecheap,,,28/09/2026 05:46
-6384fe78-593e-4092-ab95-45b74144e15f,jiffy.solar,available,9.99,83.99,high,low,5,name.com,,,22/08/2026 07:30
-1f8db621-5e21-46bb-bdfb-a09ac1fa8d5b,usn.solar,available,64.99,64.99,medium,low,3,namesilo,,,28/09/2026 15:31
-705a9b74-ed73-4a7d-b247-e1c5e0f6aba5,charles.solar,available,51.95,51.95,high,medium,7,spaceship,,,29/09/2026 07:30
-12a6bc2f-0f77-4f04-8207-a30d459d6bab,kildare.solar,available,51.95,51.95,medium,low,7,spaceship,,,29/09/2026 09:36
-a8d3c821-f6be-4f66-a56e-215f64542a37,shampoo.solar,available,67.98,81.98,high,low,7,namecheap,,,30/09/2026 02:51
-96cd0dfb-3c41-4003-92b3-3e82a7c38b1e,england.solar,available,5.66,52.01,high,low,7,porkbun,,,29/09/2026 18:14
-818b3b96-27cf-4bb2-875e-083b153e2b40,aperiodic.solar,available,9.99,83.99,medium,low,9,name.com,,,05/08/2026 22:30
-b3277d0d-31ea-4ab2-a3f3-6df824a0939d,stagnant.solar,available,9.99,83.99,medium,low,8,name.com,,,25/08/2026 06:25
-f68f4e85-fbbe-4cd6-aa97-b18b1d42f140,multiplexing.solar,available,67.98,81.98,medium,low,12,namecheap,,,01/10/2026 23:04
-046d2074-e276-497c-aded-ae7de8eb050d,flint.solar,available,9.99,83.99,high,low,5,name.com,,,18/08/2026 08:20
-70c53769-3eb5-4187-86cc-86efd2737ac9,chummy.solar,available,9.99,83.99,high,low,6,name.com,,,11/08/2026 07:44
-002de91b-486b-4cb8-85e6-434a3e30163c,tore.solar,available,50.2,50.2,medium,low,4,cloudflare,,,30/09/2026 03:02
-08fc5dc7-2860-486e-84e9-1a86fcf01fb1,orthogonal.solar,available,9.99,83.99,high,low,10,name.com,,,17/08/2026 19:23
-7a181de2-0a5d-4db5-a22b-4d06dd6a9557,advocator.solar,available,64.99,64.99,medium,low,9,namesilo,,,17/09/2026 11:45
-57fc8122-f009-439c-87d0-53ac5885d01a,erudite.solar,available,9.99,83.99,high,low,7,name.com,,,17/08/2026 13:10
-eb0e7664-b762-4616-919d-26de0ad85282,liz.solar,available,64.99,64.99,high,low,3,namesilo,,,25/09/2026 14:24
-d75a8adf-d5c0-424c-8fbd-ce48213fba4f,complaints.solar,available,64.99,64.99,medium,low,10,namesilo,,,18/09/2026 03:41
-9d032031-57c4-4460-bd00-ca44b500e1c2,unshaved.solar,available,64.99,64.99,medium,low,8,namesilo,,,12/09/2026 19:42
-3c081e58-a1f8-46fe-a9df-b8552ad1c063,decoders.solar,available,64.99,64.99,medium,low,8,namesilo,,,20/09/2026 07:41
-f71a9e82-c1ab-4b40-9809-eb2c9d51402c,registering.solar,available,51.95,51.95,medium,low,11,spaceship,,,30/09/2026 23:13
-04aa0ead-e181-4af9-9ef3-69ea56448b6e,erotically.solar,available,64.99,64.99,medium,low,10,namesilo,,,14/09/2026 15:58
-a4679969-9745-4949-876d-c27feafc72c7,dust.solar,available,67.98,81.98,high,low,4,namecheap,,,24/09/2026 21:05
-00b998c8-4a9b-4425-8b71-2d7336a0c079,hollering.solar,available,64.99,64.99,medium,low,9,namesilo,,,23/09/2026 06:21
-f0bb58e7-79d6-41f8-95a5-c308686178ba,bertram.solar,available,51.95,51.95,high,low,7,spaceship,,,02/10/2026 00:06
-5596a216-7222-44e2-b29c-40304dbde50f,hypocrisy.solar,available,50.2,50.2,medium,low,9,cloudflare,,,30/09/2026 17:40
-60d7f0ac-e336-4d69-9889-7f97e050c364,damages.solar,available,64.99,64.99,high,low,7,namesilo,,,18/09/2026 18:40
-28d7360f-9416-44d9-8189-6c03f877a71e,generate.solar,available,51.95,51.95,high,low,8,spaceship,,,28/09/2026 19:12
-5cf018b8-f478-469a-b7c7-b8ed4961085d,carsick.solar,available,9.99,83.99,medium,low,7,name.com,,,
-157bc989-b33f-47bb-9a96-b91c45786a84,asimina.solar,available,64.99,64.99,medium,low,7,namesilo,,,20/09/2026 14:10
